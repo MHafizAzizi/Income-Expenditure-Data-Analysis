@@ -9,9 +9,8 @@ st.subheader('This is an analysis of my income expenditure')
 
 ### Load Dataframe from Excel File
 
-excel_file = 'IncomeExpense.xlsx'
-sheet_name = 'Table'
-df = pd.read_excel(excel_file, sheet_name = sheet_name, usecols='A:G',header = 0)
+excel_file = 'data/MasterFile.csv'
+df = pd.read_csv(excel_file)
 
 st.dataframe(df)
 
