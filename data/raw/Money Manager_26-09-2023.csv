@@ -1,0 +1,721 @@
+﻿Date,Account,Category,Subcategory,Note,MYR,Income/Expense,Note2,Amount,Currency,Account3
+01/02/2023 12:31:22,Dompet,Food & Drink,Lunch,,4,Expense,,4,MYR,4
+01/02/2023 12:31:30,Dompet,Food & Drink,Breakfast,,4,Expense,,4,MYR,4
+01/02/2023 18:08:37,Dompet,Food & Drink,Dinner,,5.5,Expense,,5.5,MYR,5.5
+01/02/2023 18:08:44,Dompet,Food & Drink,Drink,,1,Expense,,1,MYR,1
+01/03/2023 11:58:59,Bank Islam,Dompet,,,50,Transfer-Out,,50,MYR,50
+01/03/2023 13:03:15,Public Bank,Transportation,GrabCar,,7,Expense,,7,MYR,7
+01/03/2023 21:06:16,Dompet,Transportation,Bus,,4,Expense,,4,MYR,4
+01/03/2023 21:06:23,Dompet,Food & Drink,Lunch,,24.9,Expense,,24.9,MYR,24.9
+01/04/2023 23:25:52,Public Bank,Game,Azurlane,,19.99,Expense,,19.99,MYR,19.99
+01/04/2023 23:26:02,Dompet,Allowance,,,100,Income,,100,MYR,100
+01/05/2023 00:20:02,Dompet,Food & Drink,Drink,,3.4,Expense,,3.4,MYR,3.4
+01/05/2023 00:20:09,Public Bank,Credit Topup,Yoodo,,15,Expense,,15,MYR,15
+01/05/2023 11:11:54,Dompet,Other,,,15,Expense,,15,MYR,15
+01/05/2023 11:12:01,Dompet,Food & Drink,Barang Dapur,,11.1,Expense,,11.1,MYR,11.1
+01/06/2023 11:35:39,Dompet,Transportation,Bus,,2,Expense,,2,MYR,2
+01/07/2023 13:33:11,Bank Islam,Public Bank,,,150,Transfer-Out,,150,MYR,150
+01/07/2023 13:35:54,Bank Islam,Health,Gym,,30,Expense,,30,MYR,30
+01/07/2023 19:22:59,Dompet,Food & Drink,Dinner,,10,Expense,,10,MYR,10
+01/08/2023 11:45:16,Public Bank,Credit Topup,Yoodo,,52,Expense,,52,MYR,52
+01/11/2022 12:37:11,Dompet,Food & Drink,Lunch,,8,Expense,,8,MYR,8
+01/11/2022 15:12:45,Dompet,Food & Drink,Lunch,,5.9,Expense,,5.9,MYR,5.9
+01/12/2022 17:04:39,Public Bank,Dompet,,,50,Transfer-Out,,50,MYR,50
+01/12/2022 17:04:49,Bank Islam,Dompet,,,50,Transfer-Out,,50,MYR,50
+01/12/2022 17:29:15,Dompet,Food & Drink,Dinner,,13,Expense,,13,MYR,13
+02/01/2023 17:35:45,Public Bank,Allowance,,,100,Income,,100,MYR,100
+02/02/2023 05:21:33,Public Bank,Game,Blue Archive,,14.99,Expense,,14.99,MYR,14.99
+02/02/2023 17:34:13,Public Bank,Dompet,,,50,Transfer-Out,,50,MYR,50
+02/02/2023 17:34:24,Bank Islam,Dompet,,,100,Transfer-Out,,100,MYR,100
+02/02/2023 17:41:15,Dompet,Food & Drink,Dinner,,2,Expense,,2,MYR,2
+02/02/2023 17:54:34,Dompet,Food & Drink,Drink,,1,Expense,,1,MYR,1
+02/02/2023 18:25:57,Public Bank,Food & Drink,Dinner,,44.52,Expense,,44.52,MYR,44.52
+02/04/2023 17:13:20,Dompet,Health,Toiletries,,16.15,Expense,,16.15,MYR,16.15
+02/06/2023 11:41:22,Dompet,Transportation,Bus,,2,Expense,,2,MYR,2
+02/06/2023 11:41:22,Dompet,Food & Drink,Lunch,,4.5,Expense,,4.5,MYR,4.5
+02/07/2023 11:13:25,Public Bank,Credit Topup,Yoodo,,80,Expense,,80,MYR,80
+02/07/2023 14:08:39,Dompet,Allowance,,,100,Income,,100,MYR,100
+02/07/2023 14:11:46,Dompet,Apparel,,,39.9,Expense,,39.9,MYR,39.9
+02/07/2023 15:06:07,Dompet,Transportation,Kereta,,3,Expense,,3,MYR,3
+02/07/2023 15:06:14,Dompet,Allowance,,,40,Income,,40,MYR,40
+02/07/2023 16:08:31,Dompet,Food & Drink,Lunch,,8.3,Expense,,8.3,MYR,8.3
+02/07/2023 16:57:30,Dompet,Food & Drink,Dinner,,15,Expense,,15,MYR,15
+02/08/2023 05:45:45,Bank Islam,Allowance,,,200,Income,,200,MYR,200
+02/08/2023 18:30:28,Dompet,Health,Gym,,8,Expense,,8,MYR,8
+02/08/2023 19:31:37,Dompet,Food & Drink,Dinner,,31.7,Expense,,31.7,MYR,31.7
+02/08/2023 21:30:39,Dompet,Allowance,,,100,Income,,100,MYR,100
+02/10/2022 14:56:19,Dompet,Food & Drink,,,30,Expense,,30,MYR,30
+02/11/2022 11:04:44,Public Bank,Boost,,,50,Transfer-Out,,50,MYR,50
+02/11/2022 11:13:17,Boost,Modified Bal.,,Difference,50,Income,,50,MYR,50
+02/11/2022 11:13:33,Boost,Food & Drink,Lunch,,20.9,Expense,,20.9,MYR,20.9
+02/12/2022 17:51:13,Public Bank,Allowance,,,200,Income,,200,MYR,200
+02/12/2022 17:55:05,Dompet,Food & Drink,Dinner,,7,Expense,,7,MYR,7
+03/02/2023 13:21:25,Dompet,Food & Drink,Lunch,,5,Expense,,5,MYR,5
+03/02/2023 13:21:33,Dompet,Food & Drink,Drink,,3,Expense,,3,MYR,3
+03/02/2023 18:05:06,Dompet,Food & Drink,Dinner,,5.5,Expense,,5.5,MYR,5.5
+03/05/2023 13:12:00,Dompet,Food & Drink,Lunch,,2,Expense,,2,MYR,2
+03/05/2023 13:12:05,Dompet,Transportation,Bus,,4,Expense,,4,MYR,4
+03/05/2023 15:06:08,Dompet,Food & Drink,Lunch,,10,Expense,,10,MYR,10
+03/05/2023 23:31:43,Public Bank,Game,Star Rail,,19.9,Expense,,19.9,MYR,19.9
+03/06/2023 17:43:35,Dompet,Food & Drink,Barang Dapur,,3.9,Expense,,3.9,MYR,3.9
+03/07/2023 11:58:01,Public Bank,Game,Path to Nowhere,,23.99,Expense,,23.99,MYR,23.99
+03/07/2023 21:38:18,Dompet,Transportation,Bus,,2,Expense,,2,MYR,2
+03/08/2022 18:57:13,Dompet,Allowance,,DOMPET,200,Income,,200,MYR,200
+03/11/2022 10:06:46,Boost,Food & Drink,Lunch,,11,Expense,,11,MYR,11
+03/11/2022 12:19:39,Boost,Food & Drink,Lunch,,12.4,Expense,,12.4,MYR,12.4
+03/12/2022 05:32:54,Public Bank,Game,Honkai,,23.9,Expense,,23.9,MYR,23.9
+03/12/2022 06:37:14,Public Bank,Credit Topup,Yoodo,,17,Expense,,17,MYR,17
+03/12/2022 17:58:24,Dompet,Food & Drink,Dinner,,13,Expense,,13,MYR,13
+04/01/2023 17:38:23,Boost,Food & Drink,Lunch,,4,Expense,,4,MYR,4
+04/01/2023 17:38:57,Dompet,Food & Drink,Lunch,,6,Expense,,6,MYR,6
+04/01/2023 18:07:06,Dompet,Food & Drink,Dinner,,9.5,Expense,,9.5,MYR,9.5
+04/02/2023 17:57:51,Dompet,Food & Drink,Dinner,,4,Expense,,4,MYR,4
+04/02/2023 17:57:57,Dompet,Food & Drink,Drink,,3,Expense,,3,MYR,3
+04/03/2023 21:15:50,Dompet,Food & Drink,Dinner,,11,Expense,,11,MYR,11
+04/03/2023 21:15:50,Dompet,Health,Gym,,10,Expense,,10,MYR,10
+04/04/2023 17:10:04,Dompet,Transportation,Bus,,4,Expense,,4,MYR,4
+04/05/2023 07:32:13,Dompet,Food & Drink,Breakfast,,10.3,Expense,,10.3,MYR,10.3
+04/05/2023 17:52:48,Dompet,Food & Drink,Barang Dapur,,19.55,Expense,,19.55,MYR,19.55
+04/07/2023 09:47:47,Public Bank,Credit Topup,Yoodo,,5,Expense,,5,MYR,5
+04/07/2023 13:18:06,Dompet,Transportation,Bus,,2,Expense,,2,MYR,2
+04/07/2023 13:18:06,Dompet,Food & Drink,Lunch,,4,Expense,,4,MYR,4
+04/08/2022 22:28:49,Public Bank,Game,Honkai,Monthly Pass,19.9,Expense,,19.9,MYR,19.9
+04/08/2023 12:09:59,Public Bank,Transportation,GrabCar,,13,Expense,,13,MYR,13
+04/11/2022 11:20:43,Dompet,Food & Drink,Lunch,,8.25,Expense,,8.25,MYR,8.25
+04/11/2022 13:19:04,Dompet,Food & Drink,Lunch,,11,Expense,,11,MYR,11
+05/01/2023 17:35:52,Dompet,Food & Drink,Dinner,,13,Expense,,13,MYR,13
+05/01/2023 18:03:21,Dompet,Food & Drink,Dinner,,4,Expense,,4,MYR,4
+05/01/2023 23:25:37,Public Bank,Game,Azurlane,,29.9,Expense,,29.9,MYR,29.9
+05/03/2023 08:42:32,Dompet,Food & Drink,Breakfast,,16.4,Expense,,16.4,MYR,16.4
+05/05/2023 21:59:43,Bank Islam,Public Bank,,,100,Transfer-Out,,100,MYR,100
+05/06/2023 11:11:19,Public Bank,Other,,,20.5,Expense,,20.5,MYR,20.5
+05/06/2023 11:52:31,Dompet,Food & Drink,Lunch,,15,Expense,,15,MYR,15
+05/07/2023 13:11:09,Dompet,Transportation,Bus,,2,Expense,,2,MYR,2
+05/07/2023 13:11:13,Dompet,Food & Drink,Lunch,,2,Expense,,2,MYR,2
+05/08/2023 12:38:00,Public Bank,Game,Star Rail,,39.9,Expense,,39.9,MYR,39.9
+05/08/2023 18:37:46,Dompet,Food & Drink,Barang Dapur,,20.3,Expense,,20.3,MYR,20.3
+05/08/2023 19:20:12,Dompet,Food & Drink,Dinner,,14,Expense,,14,MYR,14
+05/09/2022 11:42:24,Public Bank,Transportation,GrabCar,GRAB,25,Expense,,25,MYR,25
+05/09/2022 11:42:42,Public Bank,Credit Topup,Digi,MAK,10,Expense,,10,MYR,10
+05/09/2022 11:42:56,Dompet,Other,,TOPUP MAK,10,Income,,10,MYR,10
+05/09/2022 13:22:50,Public Bank,Food & Drink,,,26,Expense,,26,MYR,26
+05/09/2022 18:08:51,Dompet,Allowance,,,30,Income,,30,MYR,30
+05/09/2022 19:14:02,Public Bank,Game,Honkai,Monthly Pass,19.9,Expense,,19.9,MYR,19.9
+05/12/2022 16:50:38,Bank Islam,Allowance,,,300,Income,,300,MYR,300
+05/12/2022 17:32:05,Bank Islam,Credit Topup,Digi,,117.27,Expense,,117.27,MYR,117.27
+05/12/2022 18:11:06,Dompet,Other,,,8,Expense,,8,MYR,8
+06/01/2023 09:03:19,Public Bank,Game,Arknight,,21.99,Expense,,21.99,MYR,21.99
+06/01/2023 13:13:23,Dompet,Food & Drink,Lunch,,10,Expense,,10,MYR,10
+06/01/2023 17:50:47,Dompet,Food & Drink,Barang Dapur,,8.8,Expense,,8.8,MYR,8.8
+06/01/2023 17:54:27,Dompet,Food & Drink,Dinner,,5.5,Expense,,5.5,MYR,5.5
+06/01/2023 17:55:55,Dompet,Food & Drink,Dinner,,4,Expense,,4,MYR,4
+06/02/2023 10:16:06,Dompet,Health,Medicine,,50,Expense,,50,MYR,50
+06/02/2023 18:17:21,Dompet,Food & Drink,Lunch,,10,Expense,,10,MYR,10
+06/02/2023 18:17:58,Dompet,Food & Drink,Barang Dapur,,8,Expense,,8,MYR,8
+06/02/2023 18:23:03,Dompet,Food & Drink,Dinner,,6.5,Expense,,6.5,MYR,6.5
+06/02/2023 18:32:46,Dompet,Food & Drink,Dinner,,2.8,Expense,,2.8,MYR,2.8
+06/03/2023 13:06:08,Public Bank,Food & Drink,Lunch,,26.57,Expense,,26.57,MYR,26.57
+06/03/2023 21:00:21,Bank Islam,Dompet,,,50,Transfer-Out,,50,MYR,50
+06/03/2023 21:00:29,Dompet,Transportation,GrabCar,,14,Expense,,14,MYR,14
+06/04/2023 07:08:11,Dompet,Transportation,Bus,,4,Expense,,4,MYR,4
+06/05/2023 10:53:15,Public Bank,Game,Star Rail,,39.9,Expense,,39.9,MYR,39.9
+06/05/2023 14:16:44,Dompet,Apparel,,,13,Expense,,13,MYR,13
+06/05/2023 14:56:47,Public Bank,Other,,,35.5,Expense,,35.5,MYR,35.5
+06/05/2023 17:58:37,Dompet,Food & Drink,Dinner,,22.5,Expense,,22.5,MYR,22.5
+06/05/2023 18:17:58,Dompet,Food & Drink,Barang Dapur,,4.6,Expense,,4.6,MYR,4.6
+06/05/2023 18:21:21,Bank Islam,Dompet,,,100,Transfer-Out,,100,MYR,100
+06/05/2023 19:44:14,Dompet,Transportation,Kereta,,5,Expense,,5,MYR,5
+06/05/2023 19:44:14,Public Bank,Game,Star Rail,,4.9,Expense,,4.9,MYR,4.9
+06/06/2023 16:45:11,Dompet,Transportation,Bus,,2,Expense,,2,MYR,2
+06/07/2023 12:27:25,Dompet,Transportation,Bus,,2,Expense,,2,MYR,2
+06/08/2022 17:23:29,Dompet,Allowance,,Mak bayar balik topup,10,Income,,10,MYR,10
+06/08/2022 17:24:17,Dompet,Food & Drink,,Sayap Ayam,7,Expense,,7,MYR,7
+06/08/2023 07:25:09,Dompet,Food & Drink,Breakfast,,11.55,Expense,,11.55,MYR,11.55
+06/08/2023 09:04:58,Dompet,Food & Drink,Barang Dapur,,6.5,Expense,,6.5,MYR,6.5
+06/08/2023 09:07:40,Bank Islam,Allowance,,,5,Income,,5,MYR,5
+06/08/2023 15:19:35,Dompet,Health,Toiletries,,31.55,Expense,,31.55,MYR,31.55
+06/08/2023 16:54:36,Dompet,Health,Toiletries,,9.3,Expense,,9.3,MYR,9.3
+06/09/2022 13:26:58,Bank Islam,Allowance,,,200,Income,,200,MYR,200
+06/09/2022 19:55:22,Dompet,Allowance,,KELAS MANDARIN,50,Income,,50,MYR,50
+06/11/2022 14:55:42,Public Bank,Food & Drink,Lunch,,53.1,Expense,,53.1,MYR,53.1
+06/11/2022 15:35:29,Public Bank,Health,Gym,,14.9,Expense,,14.9,MYR,14.9
+06/11/2022 17:26:11,Bank Islam,Apparel,,,119,Expense,,119,MYR,119
+06/12/2022 18:17:29,Dompet,Food & Drink,Dinner,,12.5,Expense,,12.5,MYR,12.5
+06/12/2022 20:38:41,Public Bank,Game,Azurlane,,33.98,Expense,,33.98,MYR,33.98
+07/01/2023 07:42:28,Public Bank,Allowance,,,100,Income,,100,MYR,100
+07/01/2023 13:02:45,Dompet,Food & Drink,Lunch,,8,Expense,,8,MYR,8
+07/01/2023 18:15:08,Dompet,Food & Drink,Dinner,,6,Expense,,6,MYR,6
+07/02/2023 11:35:11,Bank Islam,Dompet,,,100,Transfer-Out,,100,MYR,100
+07/02/2023 11:58:02,Dompet,Food & Drink,Lunch,,5.5,Expense,,5.5,MYR,5.5
+07/02/2023 12:08:06,Dompet,Food & Drink,Lunch,,4,Expense,,4,MYR,4
+07/02/2023 12:08:11,Dompet,Food & Drink,Drink,,6,Expense,,6,MYR,6
+07/02/2023 18:10:08,Dompet,Food & Drink,Dinner,,5.5,Expense,,5.5,MYR,5.5
+07/02/2023 18:10:14,Dompet,Food & Drink,Drink,,2,Expense,,2,MYR,2
+07/06/2023 09:02:12,Public Bank,Game,Genshin,,19.9,Expense,,19.9,MYR,19.9
+07/07/2023 12:27:50,Dompet,Food & Drink,Lunch,,4,Expense,,4,MYR,4
+07/07/2023 12:27:56,Dompet,Transportation,Bus,,2,Expense,,2,MYR,2
+07/09/2022 09:36:55,Dompet,Allowance,,,100,Income,,100,MYR,100
+07/12/2022 12:15:20,Dompet,Food & Drink,Lunch,,8,Expense,,8,MYR,8
+07/12/2022 17:57:37,Dompet,Food & Drink,Dinner,,9.5,Expense,,9.5,MYR,9.5
+07/12/2022 17:57:43,Dompet,Food & Drink,Dinner,,1.8,Expense,,1.8,MYR,1.8
+08/01/2023 11:43:01,Dompet,Food & Drink,Lunch,,8,Expense,,8,MYR,8
+08/01/2023 18:16:28,Dompet,Food & Drink,Dinner,,6.5,Expense,,6.5,MYR,6.5
+08/02/2023 10:45:28,Dompet,Other,,,3,Expense,,3,MYR,3
+08/02/2023 11:34:44,Dompet,Food & Drink,Lunch,,5,Expense,,5,MYR,5
+08/02/2023 11:34:49,Dompet,Food & Drink,Drink,,1,Expense,,1,MYR,1
+08/02/2023 17:06:15,Public Bank,Dompet,,,100,Transfer-Out,,100,MYR,100
+08/02/2023 17:06:42,Bank Islam,Dompet,,,100,Transfer-Out,,100,MYR,100
+08/02/2023 17:11:24,Dompet,Food & Drink,Barang Dapur,,29.4,Expense,,29.4,MYR,29.4
+08/02/2023 18:01:42,Dompet,Food & Drink,Dinner,,5,Expense,,5,MYR,5
+08/02/2023 18:01:50,Dompet,Food & Drink,Drink,,1,Expense,,1,MYR,1
+08/04/2023 10:41:21,Dompet,Health,Toiletries,,34.2,Expense,,34.2,MYR,34.2
+08/04/2023 19:31:47,Dompet,Food & Drink,Dinner,,6,Expense,,6,MYR,6
+08/05/2023 13:12:09,Dompet,Food & Drink,Lunch,,4,Expense,,4,MYR,4
+08/05/2023 18:28:14,Dompet,Transportation,Bus,,3,Expense,,3,MYR,3
+08/06/2023 07:59:53,Public Bank,Game,Star Rail,,19.9,Expense,,19.9,MYR,19.9
+08/06/2023 10:25:53,Public Bank,Game,Azurlane,,29.9,Expense,,29.9,MYR,29.9
+08/06/2023 14:06:02,Dompet,Food & Drink,Lunch,,2,Expense,,2,MYR,2
+08/06/2023 14:06:08,Dompet,Transportation,Bus,,2,Expense,,2,MYR,2
+08/06/2023 14:52:23,Public Bank,Game,Blue Archive,,14.99,Expense,,14.99,MYR,14.99
+08/07/2023 19:34:41,Dompet,Food & Drink,Dinner,,21,Expense,,21,MYR,21
+08/07/2023 20:35:56,Dompet,Health,Toiletries,,10.9,Expense,,10.9,MYR,10.9
+08/07/2023 20:36:04,Dompet,Transportation,Minyak,,10,Expense,,10,MYR,10
+08/08/2022 13:16:42,Public Bank,Credit Topup,Digi,DIGI,5,Expense,,5,MYR,5
+08/09/2022 19:18:27,Dompet,Health,Toiletries,UBAT,65,Expense,,65,MYR,65
+08/11/2022 14:17:35,Dompet,Food & Drink,Lunch,,14.8,Expense,,14.8,MYR,14.8
+08/12/2022 17:45:08,Dompet,Food & Drink,Dinner,,7.5,Expense,,7.5,MYR,7.5
+08/12/2022 22:09:36,Bank Islam,Other,,,40,Expense,,40,MYR,40
+09/01/2023 16:12:10,Dompet,Allowance,,,70,Income,,70,MYR,70
+09/01/2023 18:03:05,Dompet,Food & Drink,Dinner,,6.5,Expense,,6.5,MYR,6.5
+09/02/2023 12:40:59,Dompet,Food & Drink,Lunch,,7,Expense,,7,MYR,7
+09/02/2023 17:54:49,Dompet,Food & Drink,Dinner,,5,Expense,,5,MYR,5
+09/02/2023 17:54:53,Dompet,Food & Drink,Drink,,1,Expense,,1,MYR,1
+09/03/2023 09:55:45,Bank Islam,Allowance,,,50,Income,,50,MYR,50
+09/03/2023 09:55:55,Dompet,Food & Drink,Drink,,4,Expense,,4,MYR,4
+09/03/2023 17:42:42,Bank Islam,Apparel,Fashion,,19.35,Expense,,19.35,MYR,19.35
+09/03/2023 17:42:52,Dompet,Other,,,10,Expense,,10,MYR,10
+09/03/2023 17:46:58,Dompet,Health,Medicine,,4,Expense,,4,MYR,4
+09/04/2023 10:25:38,Public Bank,Other,,LESEN KETA,60,Expense,,60,MYR,60
+09/04/2023 21:57:53,Bank Islam,Dompet,,,100,Transfer-Out,,100,MYR,100
+09/05/2023 13:05:05,Dompet,Food & Drink,Lunch,,4,Expense,,4,MYR,4
+09/06/2023 20:17:42,Dompet,Food & Drink,Dinner,,3,Expense,,3,MYR,3
+09/07/2023 10:43:45,Dompet,Food & Drink,Breakfast,,6,Expense,,6,MYR,6
+09/07/2023 10:45:34,Dompet,Food & Drink,Lunch,,5.6,Expense,,5.6,MYR,5.6
+09/07/2023 11:36:58,Dompet,Food & Drink,Drink,,3.6,Expense,,3.6,MYR,3.6
+09/08/2022 20:01:57,Dompet,Health,Toiletries,,24.35,Expense,SABUN MANDI ,24.35,MYR,24.35
+09/08/2023 18:54:41,Dompet,Health,Gym,,8,Expense,,8,MYR,8
+09/08/2023 18:54:46,Dompet,Food & Drink,Dinner,,30.8,Expense,,30.8,MYR,30.8
+09/10/2022 18:35:28,Dompet,Food & Drink,,,5,Expense,,5,MYR,5
+09/10/2022 22:46:27,Public Bank,Credit Topup,Yoodo,,23,Expense,,23,MYR,23
+09/11/2022 08:24:28,Dompet,Food & Drink,Breakfast,,5,Expense,,5,MYR,5
+09/11/2022 08:24:58,Boost,Food & Drink,Breakfast,,12.55,Expense,,12.55,MYR,12.55
+09/11/2022 11:27:07,Dompet,Food & Drink,Lunch,,9.8,Expense,,9.8,MYR,9.8
+09/12/2022 13:13:47,Dompet,Food & Drink,Lunch,,12,Expense,,12,MYR,12
+09/12/2022 17:49:47,Dompet,Food & Drink,Dinner,,4,Expense,,4,MYR,4
+09/12/2022 18:00:59,Public Bank,Game,Genshin,,19.9,Expense,,19.9,MYR,19.9
+10/01/2023 12:54:55,Dompet,Food & Drink,Lunch,,11.5,Expense,,11.5,MYR,11.5
+10/01/2023 18:13:02,Dompet,Food & Drink,Dinner,,8.5,Expense,,8.5,MYR,8.5
+10/02/2023 15:54:28,Dompet,Food & Drink,Barang Dapur,,24.4,Expense,,24.4,MYR,24.4
+10/03/2023 22:19:51,Dompet,Food & Drink,Drink,,5,Expense,,5,MYR,5
+10/03/2023 22:19:51,Dompet,Other,,,10,Expense,,10,MYR,10
+10/05/2023 09:31:54,Public Bank,Game,Blue Archive,,14.99,Expense,,14.99,MYR,14.99
+10/05/2023 09:32:03,Dompet,Transportation,Bus,,6,Expense,,6,MYR,6
+10/06/2023 17:48:53,Dompet,Transportation,Bus,,2,Expense,,2,MYR,2
+10/06/2023 17:48:53,Dompet,Food & Drink,Drink,,2,Expense,,2,MYR,2
+10/07/2023 06:37:46,Dompet,Transportation,Minyak,,10,Expense,,10,MYR,10
+10/07/2023 07:35:37,Dompet,Transportation,Bus,,2,Expense,,2,MYR,2
+10/07/2023 16:38:27,Dompet,Transportation,Bus,,2,Expense,,2,MYR,2
+10/08/2022 13:04:26,Public Bank,Game,Arknight,MONTHLY PASS,21.99,Expense,,21.99,MYR,21.99
+10/08/2023 14:03:33,Public Bank,Allowance,,,100,Income,,100,MYR,100
+10/08/2023 20:21:46,Dompet,Food & Drink,Barang Dapur,,17.4,Expense,,17.4,MYR,17.4
+10/11/2022 08:21:14,Bank Islam,Other,,,15,Expense,,15,MYR,15
+10/11/2022 14:56:21,Public Bank,Transportation,Car,,5,Expense,,5,MYR,5
+10/11/2022 17:07:13,Dompet,Food & Drink,Barang Dapur,,2.7,Expense,,2.7,MYR,2.7
+10/12/2022 12:39:25,Public Bank,Food & Drink,Breakfast,,107.2,Expense,,107.2,MYR,107.2
+10/12/2022 13:12:12,Bank Islam,Dompet,,,100,Transfer-Out,,100,MYR,100
+10/12/2022 18:14:46,Dompet,Food & Drink,Dinner,,5,Expense,,5,MYR,5
+11/01/2023 11:35:49,Dompet,Food & Drink,Lunch,,5,Expense,,5,MYR,5
+11/01/2023 11:35:59,Dompet,Other,,,3,Expense,,3,MYR,3
+11/02/2023 12:35:33,Dompet,Food & Drink,Lunch,,10,Expense,,10,MYR,10
+11/02/2023 12:35:41,Dompet,Food & Drink,Drink,,1,Expense,,1,MYR,1
+11/02/2023 18:02:59,Dompet,Food & Drink,Dinner,,5,Expense,,5,MYR,5
+11/02/2023 18:03:04,Dompet,Food & Drink,Drink,,1,Expense,,1,MYR,1
+11/03/2023 05:47:39,Bank Islam,Allowance,,,200,Income,,200,MYR,200
+11/05/2023 17:38:34,Dompet,Food & Drink,Lunch,,4,Expense,,4,MYR,4
+11/07/2023 15:51:12,Dompet,Transportation,Bus,,2,Expense,,2,MYR,2
+11/11/2022 11:51:35,Dompet,Food & Drink,Lunch,,10,Expense,,10,MYR,10
+11/11/2022 13:14:52,Dompet,Food & Drink,Lunch,,14.05,Expense,,14.05,MYR,14.05
+11/12/2022 13:37:11,Dompet,Food & Drink,Lunch,,12,Expense,,12,MYR,12
+11/12/2022 18:14:33,Dompet,Food & Drink,Dinner,,6,Expense,,6,MYR,6
+11/12/2022 18:14:39,Public Bank,Allowance,,,200,Income,,200,MYR,200
+12/01/2023 07:12:54,Dompet,Food & Drink,Breakfast,,9.7,Expense,,9.7,MYR,9.7
+12/01/2023 17:15:50,Dompet,Food & Drink,Lunch,,8,Expense,,8,MYR,8
+12/01/2023 17:41:53,Public Bank,Dompet,,,50,Transfer-Out,,50,MYR,50
+12/01/2023 17:42:08,Bank Islam,Dompet,,,50,Transfer-Out,,50,MYR,50
+12/01/2023 17:51:20,Dompet,Food & Drink,Dinner,,11,Expense,,11,MYR,11
+12/01/2023 17:54:19,Dompet,Food & Drink,Dinner,,4,Expense,,4,MYR,4
+12/02/2023 18:28:29,Dompet,Food & Drink,Dinner,,5,Expense,,5,MYR,5
+12/02/2023 18:28:38,Dompet,Food & Drink,Drink,,1,Expense,,1,MYR,1
+12/05/2023 11:52:28,Dompet,Food & Drink,Lunch,,11,Expense,,11,MYR,11
+12/05/2023 12:23:00,Public Bank,Transportation,GrabCar,,11,Expense,,11,MYR,11
+12/05/2023 13:38:43,Public Bank,Transportation,GrabCar,,8,Expense,,8,MYR,8
+12/06/2023 16:22:07,Dompet,Transportation,Bus,,2,Expense,,2,MYR,2
+12/06/2023 16:22:07,Dompet,Food & Drink,Lunch,,2,Expense,,2,MYR,2
+12/07/2023 15:51:26,Dompet,Transportation,Bus,,2,Expense,,2,MYR,2
+12/10/2022 13:20:44,Dompet,Food & Drink,,,22.9,Expense,,22.9,MYR,22.9
+12/10/2022 18:33:11,Dompet,Transportation,,,4,Expense,,4,MYR,4
+12/12/2022 12:48:08,Dompet,Food & Drink,Lunch,,14,Expense,,14,MYR,14
+12/12/2022 18:14:02,Dompet,Food & Drink,Dinner,,6.5,Expense,,6.5,MYR,6.5
+13/01/2023 13:10:54,Dompet,Food & Drink,Lunch,,9,Expense,,9,MYR,9
+13/01/2023 17:48:20,Dompet,Food & Drink,Dinner,,15,Expense,,15,MYR,15
+13/01/2023 17:55:03,Dompet,Food & Drink,Barang Dapur,,24,Expense,,24,MYR,24
+13/02/2023 11:23:26,Dompet,Food & Drink,Dinner,,5.5,Expense,,5.5,MYR,5.5
+13/03/2023 10:51:18,Public Bank,Transportation,GrabCar,,5,Expense,,5,MYR,5
+13/03/2023 10:51:25,Dompet,Transportation,Bus,,1,Expense,,1,MYR,1
+13/03/2023 10:51:51,Dompet,Transportation,Minyak,,10,Expense,,10,MYR,10
+13/03/2023 10:56:38,Public Bank,Other,,,26,Expense,,26,MYR,26
+13/03/2023 13:43:36,Public Bank,Food & Drink,Lunch,,24.5,Expense,,24.5,MYR,24.5
+13/03/2023 14:15:01,Bank Islam,Dompet,,,50,Transfer-Out,,50,MYR,50
+13/03/2023 14:25:28,Public Bank,Transportation,GrabCar,,6,Expense,,6,MYR,6
+13/03/2023 14:39:53,Dompet,Transportation,Bus,,2,Expense,,2,MYR,2
+13/03/2023 15:15:54,Dompet,Food & Drink,Barang Dapur,,4.6,Expense,,4.6,MYR,4.6
+13/06/2023 13:15:20,Dompet,Food & Drink,Lunch,,2.5,Expense,,2.5,MYR,2.5
+13/06/2023 13:15:20,Dompet,Transportation,Bus,,2,Expense,,2,MYR,2
+13/07/2023 16:35:49,Dompet,Food & Drink,Lunch,,4,Expense,,4,MYR,4
+13/07/2023 16:36:10,Dompet,Transportation,Bus,,2,Expense,,2,MYR,2
+13/07/2023 16:47:15,Dompet,Food & Drink,Barang Dapur,,3,Expense,,3,MYR,3
+13/08/2022 10:39:56,Public Bank,Credit Topup,Yoodo,Youtube,7,Expense,,7,MYR,7
+13/08/2022 17:10:49,Dompet,Apparel,,KASUT,5,Expense,,5,MYR,5
+13/08/2022 17:17:57,Dompet,Food & Drink,,,17.9,Expense,,17.9,MYR,17.9
+13/08/2023 18:35:03,Dompet,Food & Drink,Drink,,3.2,Expense,,3.2,MYR,3.2
+13/08/2023 18:35:03,Public Bank,Dompet,,,50,Transfer-Out,,50,MYR,50
+13/08/2023 18:35:03,Dompet,Health,Gym,,5,Expense,,5,MYR,5
+13/10/2022 11:38:41,Public Bank,Other,,Quillbot,6.99,Expense,,6.99,MYR,6.99
+13/11/2022 08:12:10,Dompet,Food & Drink,Lunch,,3.6,Expense,,3.6,MYR,3.6
+13/11/2022 08:19:06,Public Bank,Dompet,,,100,Transfer-Out,,100,MYR,100
+13/11/2022 13:42:32,Bank Islam,Other,,,34.5,Expense,,34.5,MYR,34.5
+13/11/2022 17:12:06,Bank Islam,Food & Drink,Dinner,,22.3,Expense,,22.3,MYR,22.3
+13/12/2022 13:15:42,Dompet,Food & Drink,Lunch,,19,Expense,,19,MYR,19
+14/01/2023 08:46:53,Bank Islam,Allowance,,,200,Income,,200,MYR,200
+14/01/2023 12:34:58,Dompet,Food & Drink,Lunch,,8,Expense,,8,MYR,8
+14/01/2023 18:27:23,Dompet,Food & Drink,Dinner,,5,Expense,,5,MYR,5
+14/02/2023 11:23:38,Dompet,Food & Drink,Drink,,1,Expense,,1,MYR,1
+14/02/2023 11:31:15,Dompet,Food & Drink,Drink,,1,Expense,,1,MYR,1
+14/02/2023 11:31:21,Dompet,Food & Drink,Lunch,,2.5,Expense,,2.5,MYR,2.5
+14/02/2023 16:56:44,Dompet,Other,,,30,Expense,,30,MYR,30
+14/02/2023 17:00:49,Dompet,Food & Drink,Dinner,,7.5,Expense,,7.5,MYR,7.5
+14/03/2023 10:49:54,Dompet,Other,,,15,Expense,,15,MYR,15
+14/04/2023 20:46:23,Public Bank,Allowance,,,200,Income,,200,MYR,200
+14/04/2023 20:46:45,Dompet,Transportation,Bus,,12,Expense,,12,MYR,12
+14/05/2023 07:36:03,Dompet,Food & Drink,Breakfast,,11.55,Expense,,11.55,MYR,11.55
+14/05/2023 16:13:55,Dompet,Health,Toiletries,,61.8,Expense,,61.8,MYR,61.8
+14/05/2023 17:22:56,Bank Islam,Dompet,,,100,Transfer-Out,,100,MYR,100
+14/05/2023 17:23:03,Dompet,Food & Drink,Drink,,27.5,Expense,,27.5,MYR,27.5
+14/06/2023 14:01:49,Dompet,Food & Drink,Lunch,,2,Expense,,2,MYR,2
+14/06/2023 14:01:53,Dompet,Transportation,Bus,,2,Expense,,2,MYR,2
+14/07/2023 17:43:03,Dompet,Food & Drink,Lunch,,4,Expense,,4,MYR,4
+14/07/2023 17:43:07,Dompet,Transportation,Bus,,2,Expense,,2,MYR,2
+14/08/2023 11:09:44,Dompet,Transportation,Bus,,2,Expense,,2,MYR,2
+14/08/2023 12:00:30,Public Bank,Transportation,GrabCar,,7,Expense,,7,MYR,7
+14/08/2023 12:10:55,Public Bank,Transportation,GrabCar,,7,Expense,,7,MYR,7
+14/08/2023 12:15:37,Dompet,Food & Drink,Lunch,,27,Expense,,27,MYR,27
+14/08/2023 12:40:29,Dompet,Transportation,Bus,,2,Expense,,2,MYR,2
+14/08/2023 14:11:55,Dompet,Other,,,15,Expense,,15,MYR,15
+14/08/2023 23:58:10,Public Bank,Credit Topup,Yoodo,,15,Expense,,15,MYR,15
+14/11/2022 11:22:11,Dompet,Food & Drink,Breakfast,,4.9,Expense,,4.9,MYR,4.9
+14/11/2022 11:31:42,Dompet,Food & Drink,Lunch,,13.8,Expense,,13.8,MYR,13.8
+14/12/2022 11:55:29,Dompet,Food & Drink,Lunch,,6,Expense,,6,MYR,6
+14/12/2022 18:30:47,Dompet,Food & Drink,Dinner,,8.5,Expense,,8.5,MYR,8.5
+15/01/2023 14:13:45,Public Bank,Boost,,,20,Transfer-Out,,20,MYR,20
+15/01/2023 14:13:52,Boost,Food & Drink,Lunch,,6.5,Expense,,6.5,MYR,6.5
+15/01/2023 18:06:38,Dompet,Food & Drink,Dinner,,5,Expense,,5,MYR,5
+15/01/2023 22:58:00,Boost,Other,,,8,Expense,,8,MYR,8
+15/02/2023 11:03:35,Dompet,Transportation,GrabCar,,5,Expense,,5,MYR,5
+15/02/2023 12:24:43,Dompet,Transportation,GrabCar,,4.5,Expense,,4.5,MYR,4.5
+15/02/2023 12:26:23,Dompet,Food & Drink,Lunch,,7.5,Expense,,7.5,MYR,7.5
+15/02/2023 12:27:34,Dompet,Food & Drink,Lunch,,5,Expense,,5,MYR,5
+15/02/2023 12:27:42,Dompet,Food & Drink,Drink,,1,Expense,,1,MYR,1
+15/03/2023 21:00:05,Dompet,Transportation,Bus,,2,Expense,,2,MYR,2
+15/05/2023 19:58:50,Dompet,Food & Drink,Drink,,3,Expense,,3,MYR,3
+15/05/2023 19:58:57,Dompet,Transportation,Bus,,2,Expense,,2,MYR,2
+15/06/2023 08:55:59,Bank Islam,Public Bank,,,100,Transfer-Out,,100,MYR,100
+15/06/2023 09:22:50,Public Bank,Game,Star Rail,,39.9,Expense,,39.9,MYR,39.9
+15/06/2023 13:10:00,Dompet,Food & Drink,Lunch,,2,Expense,,2,MYR,2
+15/07/2023 18:59:05,Bank Islam,Dompet,,,100,Transfer-Out,,100,MYR,100
+15/07/2023 19:38:13,Dompet,Transportation,Minyak,,10,Expense,,10,MYR,10
+15/07/2023 20:11:02,Dompet,Food & Drink,Dinner,,8.5,Expense,,8.5,MYR,8.5
+15/07/2023 20:14:15,Dompet,Health,Toiletries,,12.4,Expense,,12.4,MYR,12.4
+16/01/2023 07:50:46,Public Bank,Game,Honkai,,23.9,Expense,,23.9,MYR,23.9
+16/01/2023 18:05:04,Dompet,Food & Drink,Dinner,,5,Expense,,5,MYR,5
+16/01/2023 18:05:04,Boost,Food & Drink,Dinner,,4,Expense,,4,MYR,4
+16/02/2023 18:13:34,Dompet,Food & Drink,Lunch,,5,Expense,,5,MYR,5
+16/02/2023 18:13:47,Dompet,Food & Drink,Drink,,1,Expense,,1,MYR,1
+16/02/2023 18:13:52,Dompet,Food & Drink,Dinner,,38.07,Expense,,38.07,MYR,38.07
+16/02/2023 21:39:28,Public Bank,Allowance,,,50,Income,,50,MYR,50
+16/02/2023 21:52:00,Public Bank,Game,Honkai,,23.9,Expense,,23.9,MYR,23.9
+16/03/2023 20:54:15,Dompet,Transportation,GrabCar,,2,Expense,,2,MYR,2
+16/05/2023 12:59:06,Dompet,Allowance,,,5,Income,,5,MYR,5
+16/06/2023 11:50:34,Public Bank,Food & Drink,Lunch,,39.99,Expense,,39.99,MYR,39.99
+16/10/2022 14:14:02,Dompet,Allowance,,,200,Income,,200,MYR,200
+16/11/2022 08:48:47,Dompet,Food & Drink,Lunch,,10.5,Expense,,10.5,MYR,10.5
+16/11/2022 12:04:38,Dompet,Food & Drink,Lunch,,3,Expense,,3,MYR,3
+16/12/2022 08:19:35,Public Bank,Food & Drink,Dinner,,72.96,Expense,,72.96,MYR,72.96
+16/12/2022 13:08:09,Dompet,Food & Drink,Lunch,,7,Expense,,7,MYR,7
+16/12/2022 18:09:34,Dompet,Food & Drink,Dinner,,6,Expense,,6,MYR,6
+17/01/2023 11:04:33,Bank Islam,Allowance,,,300,Income,,300,MYR,300
+17/01/2023 14:02:03,Public Bank,Boost,,,20,Transfer-Out,,20,MYR,20
+17/01/2023 14:02:12,Boost,Food & Drink,Lunch,,4,Expense,,4,MYR,4
+17/01/2023 14:02:20,Dompet,Food & Drink,Lunch,,5,Expense,,5,MYR,5
+17/02/2023 13:46:15,Dompet,Food & Drink,Lunch,,3,Expense,,3,MYR,3
+17/02/2023 13:46:22,Dompet,Food & Drink,Drink,,4,Expense,,4,MYR,4
+17/02/2023 13:46:28,Bank Islam,Allowance,,,30,Income,,30,MYR,30
+17/02/2023 17:53:52,Public Bank,Modified Bal.,,Difference,758.37,Income,,758.37,MYR,758.37
+17/02/2023 18:04:16,Dompet,Food & Drink,Dinner,,10.5,Expense,,10.5,MYR,10.5
+17/02/2023 18:04:27,Dompet,Food & Drink,Dinner,,1,Expense,,1,MYR,1
+17/02/2023 18:04:57,Dompet,Modified Bal.,,Difference,270.33,Expense,,270.33,MYR,270.33
+17/02/2023 19:36:51,Public Bank,Game,Honkai,,4.9,Expense,,4.9,MYR,4.9
+17/02/2023 22:30:55,Bank Islam,Modified Bal.,,Difference,112.06,Income,,112.06,MYR,112.06
+17/06/2023 11:11:42,Dompet,Food & Drink,Lunch,,33,Expense,,33,MYR,33
+17/06/2023 11:11:42,Bank Islam,Dompet,,,151,Transfer-Out,,151,MYR,151
+17/07/2023 16:37:47,Dompet,Food & Drink,Lunch,,4,Expense,,4,MYR,4
+17/07/2023 16:37:53,Dompet,Transportation,Bus,,2,Expense,,2,MYR,2
+17/08/2023 12:32:51,Dompet,Food & Drink,Lunch,,15,Expense,,15,MYR,15
+17/08/2023 15:21:57,Dompet,Apparel,,,5.9,Expense,,5.9,MYR,5.9
+17/08/2023 15:38:30,Public Bank,Transportation,GrabCar,,8,Expense,,8,MYR,8
+17/09/2022 12:16:38,Public Bank,Credit Topup,Yoodo,INTERNET,10,Expense,,10,MYR,10
+17/11/2022 15:17:59,Dompet,Food & Drink,Lunch,,24.9,Expense,,24.9,MYR,24.9
+17/11/2022 19:44:42,Public Bank,Allowance,,,300,Income,,300,MYR,300
+17/12/2022 12:44:51,Public Bank,Allowance,,,25,Income,,25,MYR,25
+17/12/2022 16:27:42,Public Bank,Allowance,,,200,Income,,200,MYR,200
+17/12/2022 16:38:05,Public Bank,Boost,,,40,Transfer-Out,,40,MYR,40
+17/12/2022 17:51:09,Boost,Food & Drink,Dinner,,27.4,Expense,,27.4,MYR,27.4
+18/01/2023 14:02:20,Dompet,Food & Drink,Drink,,4,Expense,,4,MYR,4
+18/01/2023 14:02:20,Dompet,Food & Drink,Drink,,4,Expense,,4,MYR,4
+18/01/2023 14:02:20,Dompet,Food & Drink,Dinner,,3,Expense,,3,MYR,3
+18/02/2023 13:14:53,Public Bank,Other,,,32,Expense,,32,MYR,32
+18/02/2023 13:24:41,Public Bank,Food & Drink,Lunch,,23.3,Expense,,23.3,MYR,23.3
+18/02/2023 16:15:05,Bank Islam,Dompet,,,100,Transfer-Out,,100,MYR,100
+18/02/2023 16:15:17,Public Bank,Dompet,,,50,Transfer-Out,,50,MYR,50
+18/02/2023 16:16:00,Public Bank,Food & Drink,Barang Dapur,,13.25,Expense,,13.25,MYR,13.25
+18/03/2023 17:02:36,Public Bank,Allowance,,,200,Income,,200,MYR,200
+18/03/2023 17:02:45,Public Bank,Dompet,,,150,Transfer-Out,,150,MYR,150
+18/03/2023 17:02:51,Bank Islam,Dompet,,,100,Transfer-Out,,100,MYR,100
+18/03/2023 18:15:55,Dompet,Apparel,Shoes,,179,Expense,,179,MYR,179
+18/04/2023 04:25:21,Dompet,Transportation,Bus,,4,Expense,,4,MYR,4
+18/04/2023 04:25:33,Public Bank,Credit Topup,Maxis,,10,Expense,,10,MYR,10
+18/07/2023 11:45:56,Bank Islam,Public Bank,,,100,Transfer-Out,,100,MYR,100
+18/07/2023 12:19:58,Dompet,Transportation,Bus,,2,Expense,,2,MYR,2
+18/07/2023 12:19:58,Public Bank,Food & Drink,Lunch,,31.12,Expense,,31.12,MYR,31.12
+18/09/2022 08:17:18,Dompet,Food & Drink,,,18,Expense,,18,MYR,18
+18/09/2023 09:20:04,Public Bank,Transportation,GrabCar,,9,Expense,,9,MYR,9
+18/10/2022 16:10:48,Dompet,Food & Drink,,,8.4,Expense,,8.4,MYR,8.4
+18/10/2022 16:10:58,Public Bank,Allowance,,,300,Income,,300,MYR,300
+18/12/2022 12:22:53,Dompet,Food & Drink,Lunch,,6,Expense,,6,MYR,6
+18/12/2022 18:07:12,Dompet,Food & Drink,Dinner,,6,Expense,,6,MYR,6
+19/01/2023 11:47:42,Dompet,Food & Drink,Lunch,,5,Expense,,5,MYR,5
+19/01/2023 11:47:49,Dompet,Food & Drink,Drink,,3,Expense,,3,MYR,3
+19/01/2023 15:41:19,Public Bank,Game,Genshin,Monthly Pass,19.9,Expense,,19.9,MYR,19.9
+19/01/2023 17:43:36,Public Bank,Dompet,,,100,Transfer-Out,,100,MYR,100
+19/01/2023 17:44:03,Bank Islam,Dompet,,,50,Transfer-Out,,50,MYR,50
+19/01/2023 18:10:03,Dompet,Food & Drink,Dinner,,19,Expense,,19,MYR,19
+19/01/2023 18:10:18,Dompet,Food & Drink,Dinner,,3,Expense,,3,MYR,3
+19/02/2023 11:45:09,Boost,Food & Drink,Lunch,,3.5,Expense,,3.5,MYR,3.5
+19/02/2023 11:45:19,Boost,Food & Drink,Drink,,1,Expense,,1,MYR,1
+19/02/2023 13:25:46,Dompet,Food & Drink,Lunch,,3,Expense,,3,MYR,3
+19/02/2023 16:45:45,Dompet,Other,,,3,Expense,,3,MYR,3
+19/02/2023 21:30:49,Dompet,Food & Drink,Dinner,,2.5,Expense,,2.5,MYR,2.5
+19/02/2023 21:31:05,Dompet,Food & Drink,Drink,,4,Expense,,4,MYR,4
+19/03/2023 14:23:19,Dompet,Food & Drink,Breakfast,,1.85,Expense,,1.85,MYR,1.85
+19/03/2023 14:23:27,Dompet,Food & Drink,Drink,,15,Expense,,15,MYR,15
+19/03/2023 14:50:54,Dompet,Food & Drink,Lunch,,29.95,Expense,,29.95,MYR,29.95
+19/03/2023 14:58:46,Dompet,Food & Drink,Barang Dapur,,1.25,Expense,,1.25,MYR,1.25
+19/04/2023 14:38:24,Dompet,Allowance,,,50,Income,,50,MYR,50
+19/04/2023 14:38:34,Public Bank,Game,Blue Archive,,14.99,Expense,,14.99,MYR,14.99
+19/04/2023 20:41:55,Dompet,Transportation,Bus,,10,Expense,,10,MYR,10
+19/05/2023 07:46:20,Dompet,Transportation,Bus,,4,Expense,,4,MYR,4
+19/05/2023 07:46:34,Dompet,Food & Drink,Drink,,3,Expense,,3,MYR,3
+19/05/2023 07:46:40,Dompet,Allowance,,,200,Income,,200,MYR,200
+19/05/2023 14:23:01,Dompet,Food & Drink,Lunch,,2,Expense,,2,MYR,2
+19/05/2023 14:28:28,Dompet,Food & Drink,Drink,,3,Expense,,3,MYR,3
+19/06/2023 16:43:25,Dompet,Transportation,Bus,,2,Expense,,2,MYR,2
+19/11/2022 12:03:41,Public Bank,Dompet,,,150,Transfer-Out,,150,MYR,150
+19/11/2022 12:03:51,Bank Islam,Dompet,,,50,Transfer-Out,,50,MYR,50
+19/11/2022 13:21:18,Dompet,Health,Gym,,3.8,Expense,,3.8,MYR,3.8
+19/11/2022 13:35:36,Dompet,Food & Drink,Breakfast,,11.4,Expense,,11.4,MYR,11.4
+19/11/2022 13:53:47,Dompet,Other,,,47.1,Expense,,47.1,MYR,47.1
+19/11/2022 16:06:02,Dompet,Food & Drink,Barang Dapur,,11.7,Expense,,11.7,MYR,11.7
+19/12/2022 07:59:02,Bank Islam,Allowance,,,250,Income,,250,MYR,250
+19/12/2022 11:53:20,Boost,Food & Drink,Lunch,,4,Expense,,4,MYR,4
+19/12/2022 18:12:09,Boost,Food & Drink,Dinner,,8.5,Expense,,8.5,MYR,8.5
+20/01/2023 13:18:40,Dompet,Food & Drink,Lunch,,10,Expense,,10,MYR,10
+20/01/2023 18:22:22,Dompet,Food & Drink,Dinner,,5.5,Expense,,5.5,MYR,5.5
+20/01/2023 18:22:39,Dompet,Food & Drink,Drink,,4,Expense,,4,MYR,4
+20/02/2023 12:01:20,Dompet,Food & Drink,Lunch,,3,Expense,,3,MYR,3
+20/02/2023 12:01:35,Dompet,Food & Drink,Drink,,1,Expense,,1,MYR,1
+20/02/2023 17:44:53,Dompet,Food & Drink,Dinner,,10,Expense,,10,MYR,10
+20/04/2023 10:58:52,Public Bank,Game,Blue Archive,,34.99,Expense,,34.99,MYR,34.99
+20/04/2023 14:09:03,Dompet,Allowance,,,55,Income,,55,MYR,55
+20/05/2023 19:17:42,Dompet,Food & Drink,Dinner,,4,Expense,,4,MYR,4
+20/05/2023 19:28:10,Dompet,Health,Toiletries,,21.5,Expense,,21.5,MYR,21.5
+20/06/2023 17:45:05,Dompet,Transportation,Bus,,2,Expense,,2,MYR,2
+20/06/2023 17:45:10,Dompet,Food & Drink,Lunch,,2,Expense,,2,MYR,2
+20/07/2023 12:02:05,Public Bank,Food & Drink,Lunch,,38.02,Expense,,38.02,MYR,38.02
+20/07/2023 12:02:14,Dompet,Transportation,Bus,,2,Expense,,2,MYR,2
+20/08/2023 14:04:08,Public Bank,Allowance,,,20,Income,,20,MYR,20
+20/08/2023 22:17:42,Dompet,Allowance,,,100,Income,,100,MYR,100
+20/10/2022 07:00:29,Public Bank,Dompet,,TOPUP MAK,10,Transfer-Out,,10,MYR,10
+20/10/2022 10:25:02,Dompet,Food & Drink,,,11.4,Expense,,11.4,MYR,11.4
+20/10/2022 12:54:15,Public Bank,Game,Arknight,Monthly Pass,21.99,Expense,,21.99,MYR,21.99
+20/11/2022 14:11:50,Dompet,Health,Gym,,15.9,Expense,,15.9,MYR,15.9
+20/11/2022 17:59:05,Public Bank,Food & Drink,Dinner,,30.82,Expense,,30.82,MYR,30.82
+20/11/2022 18:19:48,Public Bank,Food & Drink,Dinner,,3,Expense,,3,MYR,3
+20/12/2022 11:47:45,Public Bank,Boost,,,20,Transfer-Out,,20,MYR,20
+20/12/2022 12:08:18,Boost,Food & Drink,Lunch,,6,Expense,,6,MYR,6
+20/12/2022 17:37:48,Public Bank,Dompet,,,100,Transfer-Out,,100,MYR,100
+20/12/2022 17:37:56,Bank Islam,Dompet,,,100,Transfer-Out,,100,MYR,100
+20/12/2022 17:43:35,Dompet,Food & Drink,Barang Dapur,,18.2,Expense,,18.2,MYR,18.2
+20/12/2022 17:55:27,Dompet,Food & Drink,Dinner,,9,Expense,,9,MYR,9
+21/01/2023 12:37:22,Dompet,Food & Drink,Lunch,,3.5,Expense,,3.5,MYR,3.5
+21/01/2023 17:50:11,Dompet,Food & Drink,Dinner,,2.5,Expense,,2.5,MYR,2.5
+21/01/2023 17:50:20,Dompet,Food & Drink,Dinner,,4,Expense,,4,MYR,4
+21/02/2023 11:11:45,Public Bank,Transportation,GrabCar,,5,Expense,,5,MYR,5
+21/02/2023 11:25:49,Public Bank,Transportation,GrabCar,,5,Expense,,5,MYR,5
+21/02/2023 12:44:45,Dompet,Food & Drink,Barang Dapur,,23.1,Expense,,23.1,MYR,23.1
+21/02/2023 14:18:05,Dompet,Food & Drink,Drink,,2.5,Expense,,2.5,MYR,2.5
+21/02/2023 14:18:11,Dompet,Food & Drink,Lunch,,10,Expense,,10,MYR,10
+21/02/2023 21:36:19,Dompet,Food & Drink,Dinner,,5,Expense,,5,MYR,5
+21/02/2023 21:36:25,Dompet,Food & Drink,Drink,,1,Expense,,1,MYR,1
+21/02/2023 21:36:32,Public Bank,Allowance,,,50,Income,,50,MYR,50
+21/03/2023 11:56:22,Public Bank,Transportation,GrabCar,,7,Expense,,7,MYR,7
+21/03/2023 12:56:19,Bank Islam,Food & Drink,Lunch,,24.5,Expense,,24.5,MYR,24.5
+21/03/2023 13:50:53,Public Bank,Transportation,GrabCar,,6,Expense,,6,MYR,6
+21/03/2023 13:51:02,Dompet,Transportation,Bus,,4,Expense,,4,MYR,4
+21/06/2023 16:32:55,Dompet,Transportation,Bus,,2,Expense,,2,MYR,2
+21/06/2023 16:33:02,Dompet,Food & Drink,Lunch,,2,Expense,,2,MYR,2
+21/07/2023 11:37:14,Dompet,Allowance,,,400,Income,,400,MYR,400
+21/08/2023 09:42:15,Dompet,Food & Drink,Breakfast,,29.8,Expense,,29.8,MYR,29.8
+21/08/2023 18:19:51,Dompet,Food & Drink,Dinner,,49.2,Expense,,49.2,MYR,49.2
+21/10/2022 17:57:53,Dompet,Food & Drink,,,13,Expense,,13,MYR,13
+21/11/2022 17:03:24,Dompet,Food & Drink,Dinner,,15,Expense,,15,MYR,15
+21/11/2022 17:06:23,Dompet,Food & Drink,Breakfast,,21.5,Expense,,21.5,MYR,21.5
+21/12/2022 18:10:02,Dompet,Food & Drink,Dinner,,9.5,Expense,,9.5,MYR,9.5
+22/03/2023 23:34:01,Public Bank,Game,Azurlane,,29.99,Expense,,29.99,MYR,29.99
+22/05/2023 14:08:55,Dompet,Food & Drink,Lunch,,4.5,Expense,,4.5,MYR,4.5
+22/05/2023 17:25:59,Dompet,Transportation,Bus,,2,Expense,,2,MYR,2
+22/06/2023 17:24:44,Dompet,Transportation,Bus,,2,Expense,,2,MYR,2
+22/06/2023 17:24:48,Dompet,Food & Drink,Lunch,,2,Expense,,2,MYR,2
+22/06/2023 17:30:50,Dompet,Food & Drink,Dinner,,20,Expense,,20,MYR,20
+22/07/2023 19:14:58,Public Bank,Food & Drink,Dinner,,24.5,Expense,,24.5,MYR,24.5
+22/07/2023 21:31:09,Bank Islam,Credit Topup,Maxis,,10,Expense,,10,MYR,10
+22/08/2023 03:13:54,Dompet,Health,Toiletries,,4.7,Expense,,4.7,MYR,4.7
+22/08/2023 04:26:35,Bank Islam,Public Bank,,,150,Transfer-Out,,150,MYR,150
+22/08/2023 04:26:47,Public Bank,Game,Azurlane,,29.99,Expense,,29.99,MYR,29.99
+22/09/2022 10:41:33,Public Bank,Credit Topup,Digi,DIGI POSTPAID,20,Expense,,20,MYR,20
+22/09/2022 12:58:25,Dompet,Allowance,,,50,Income,,50,MYR,50
+22/09/2022 12:58:35,Dompet,Transportation,,,3,Expense,,3,MYR,3
+22/09/2022 13:03:35,Public Bank,Transportation,,,8,Expense,,8,MYR,8
+22/09/2022 13:26:40,Dompet,Other,,MOVIE,34.5,Expense,,34.5,MYR,34.5
+22/09/2022 16:22:29,Public Bank,Transportation,,,9,Expense,,9,MYR,9
+22/09/2022 16:26:39,Dompet,Transportation,,,2,Expense,,2,MYR,2
+22/11/2022 11:53:04,Dompet,Food & Drink,Breakfast,,20,Expense,,20,MYR,20
+22/11/2022 18:06:33,Dompet,Food & Drink,Dinner,,6,Expense,,6,MYR,6
+22/12/2022 10:23:09,Boost,Food & Drink,Lunch,,4.8,Expense,,4.8,MYR,4.8
+22/12/2022 16:51:38,Dompet,Food & Drink,Barang Dapur,,16.85,Expense,,16.85,MYR,16.85
+22/12/2022 17:55:53,Dompet,Food & Drink,Dinner,,15,Expense,,15,MYR,15
+23/02/2023 18:06:17,Boost,Food & Drink,Drink,,4,Expense,,4,MYR,4
+23/02/2023 18:06:32,Dompet,Food & Drink,Dinner,,5.5,Expense,,5.5,MYR,5.5
+23/06/2023 11:46:30,Dompet,Food & Drink,Lunch,,4,Expense,,4,MYR,4
+23/06/2023 16:44:28,Dompet,Transportation,Bus,,2,Expense,,2,MYR,2
+23/06/2023 16:44:28,Public Bank,Allowance,,,210,Income,,210,MYR,210
+23/07/2023 17:22:45,Dompet,Food & Drink,Barang Dapur,,18.55,Expense,,18.55,MYR,18.55
+23/07/2023 17:27:30,Dompet,Food & Drink,Dinner,,3,Expense,,3,MYR,3
+23/08/2022 14:11:08,Public Bank,Credit Topup,Yoodo,100GB POWERPASS,15,Expense,,15,MYR,15
+23/08/2022 16:38:50,Public Bank,Credit Topup,Digi,DIGI,5,Expense,,5,MYR,5
+23/08/2022 22:30:17,Public Bank,Credit Topup,Yoodo,,15,Expense,,15,MYR,15
+23/08/2023 09:42:34,Dompet,Allowance,,,482,Income,,1600000,IDR,1600000
+23/08/2023 09:43:28,Dompet,Other,,Visa,150.59,Expense,,500000,IDR,500000
+23/08/2023 09:43:42,Dompet,Other,,Telkomsel,26.52,Expense,,80000,IDR,26.52
+23/09/2022 14:42:17,Public Bank,Game,Honkai,Battlepass,23.8,Expense,,23.8,MYR,23.8
+23/11/2022 11:59:10,Dompet,Food & Drink,Lunch,,5,Expense,,5,MYR,5
+23/11/2022 16:45:51,Dompet,Food & Drink,Breakfast,,8.9,Expense,,8.9,MYR,8.9
+23/11/2022 17:41:04,Dompet,Food & Drink,Barang Dapur,,1.6,Expense,,1.6,MYR,1.6
+23/11/2022 17:43:46,Dompet,Food & Drink,Dinner,,5,Expense,,5,MYR,5
+23/12/2022 13:04:32,Dompet,Food & Drink,Lunch,,11,Expense,,11,MYR,11
+23/12/2022 17:39:19,Dompet,Food & Drink,Dinner,,8.5,Expense,,8.5,MYR,8.5
+23/12/2022 17:51:20,Dompet,Food & Drink,Dinner,,3,Expense,,3,MYR,3
+24/01/2023 10:34:04,Dompet,Apparel,Clothing,,20,Expense,,20,MYR,20
+24/01/2023 10:38:48,Dompet,Food & Drink,Drink,,11.3,Expense,,11.3,MYR,11.3
+24/01/2023 11:13:07,Dompet,Food & Drink,Barang Dapur,,9.4,Expense,,9.4,MYR,9.4
+24/02/2023 12:31:53,Public Bank,Other,,Bayar print FYP,150,Income,,150,MYR,150
+24/02/2023 12:32:15,Bank Islam,Allowance,,,200,Income,,200,MYR,200
+24/02/2023 13:28:42,Dompet,Food & Drink,Lunch,,12.5,Expense,,12.5,MYR,12.5
+24/02/2023 13:28:49,Dompet,Food & Drink,Drink,,2,Expense,,2,MYR,2
+24/02/2023 18:03:58,Dompet,Food & Drink,Dinner,,5,Expense,,5,MYR,5
+24/03/2023 13:56:17,Public Bank,Allowance,,,300,Income,,300,MYR,300
+24/03/2023 17:56:03,Dompet,Food & Drink,Dinner,,6,Expense,,6,MYR,6
+24/03/2023 17:56:10,Dompet,Food & Drink,Drink,,4.3,Expense,,4.3,MYR,4.3
+24/04/2023 18:26:59,Dompet,Transportation,Kereta,,20,Expense,,20,MYR,20
+24/05/2023 12:26:02,Public Bank,Game,Blue Archive,,14.99,Expense,,14.99,MYR,14.99
+24/05/2023 13:05:49,Dompet,Food & Drink,Lunch,,2,Expense,,2,MYR,2
+24/05/2023 23:38:08,Dompet,Transportation,Bus,,2,Expense,,2,MYR,2
+24/05/2023 23:38:08,Public Bank,Credit Topup,Yoodo,,83,Expense,,83,MYR,83
+24/08/2022 18:04:18,Public Bank,Game,Genshin,Monthly Pass,19.9,Expense,,19.9,MYR,19.9
+24/11/2022 13:09:17,Dompet,Food & Drink,Lunch,,2,Expense,,2,MYR,2
+24/11/2022 18:12:16,Dompet,Food & Drink,Dinner,,7.5,Expense,,7.5,MYR,7.5
+24/12/2022 16:25:33,Boost,Credit Topup,Yoodo,,7,Expense,,7,MYR,7
+24/12/2022 21:21:59,Public Bank,Credit Topup,Yoodo,,15,Expense,,15,MYR,15
+25/01/2023 19:02:18,Dompet,Food & Drink,Dinner,,5,Expense,,5,MYR,5
+25/02/2023 23:03:43,Public Bank,Other,,Bayar print FYP,129,Expense,,129,MYR,129
+25/02/2023 23:03:59,Bank Islam,Public Bank,,,150,Transfer-Out,,150,MYR,150
+25/03/2023 04:56:14,Public Bank,Credit Topup,Yoodo,,15,Expense,,15,MYR,15
+25/03/2023 15:58:55,Dompet,Transportation,Bus,,3,Expense,,3,MYR,3
+25/03/2023 23:23:46,Public Bank,Credit Topup,Yoodo,,83,Expense,,83,MYR,83
+25/04/2023 10:06:49,Dompet,Allowance,,,450,Income,,450,MYR,450
+25/04/2023 10:07:53,Public Bank,Credit Topup,Yoodo,,23,Expense,,23,MYR,23
+25/04/2023 13:32:59,Bank Islam,ASB,,,200,Transfer-Out,,200,MYR,200
+25/05/2023 13:31:57,Dompet,Food & Drink,Lunch,,4,Expense,,4,MYR,4
+25/05/2023 13:32:01,Dompet,Transportation,Bus,,2,Expense,,2,MYR,2
+25/06/2023 18:30:01,Public Bank,Health,Toiletries,,63.6,Expense,,63.6,MYR,63.6
+25/06/2023 18:45:40,Dompet,Food & Drink,Dinner,,10.25,Expense,,10.25,MYR,10.25
+25/07/2022 17:09:38,Public Bank,Allowance,,Duit,200,Income,,200,MYR,200
+25/07/2023 08:27:24,Public Bank,Allowance,,,200,Income,,200,MYR,200
+25/07/2023 11:16:13,Dompet,Apparel,,,30,Expense,,30,MYR,30
+25/07/2023 12:19:52,Public Bank,Transportation,GrabCar,,7,Expense,,7,MYR,7
+25/07/2023 12:45:35,Dompet,Apparel,,,89.9,Expense,,89.9,MYR,89.9
+25/07/2023 13:29:23,Dompet,Apparel,,,30.9,Expense,,30.9,MYR,30.9
+25/07/2023 13:59:46,Dompet,Allowance,,,30,Income,,30,MYR,30
+25/07/2023 15:45:56,Public Bank,Transportation,GrabCar,,8,Expense,,8,MYR,8
+25/07/2023 15:46:03,Public Bank,Dompet,,,50,Transfer-Out,,50,MYR,50
+25/08/2022 09:33:23,Public Bank,Allowance,,,200,Income,,200,MYR,200
+25/09/2022 07:33:23,Dompet,Food & Drink,,,10,Expense,,10,MYR,10
+25/09/2022 11:48:04,Dompet,Health,Toiletries,Sabun Mandi,20.9,Expense,,20.9,MYR,20.9
+25/09/2022 11:50:30,Dompet,Food & Drink,,,8,Expense,,8,MYR,8
+25/10/2022 12:10:39,Public Bank,Food & Drink,,,22.55,Expense,,22.55,MYR,22.55
+25/10/2022 12:11:23,Dompet,Transportation,,,7,Expense,,7,MYR,7
+25/10/2022 16:18:05,Dompet,Food & Drink,,,3.8,Expense,,3.8,MYR,3.8
+25/10/2022 16:23:11,Dompet,Health,Toiletries,,2,Expense,,2,MYR,2
+25/10/2022 17:29:50,Dompet,Transportation,,,7,Expense,,7,MYR,7
+25/11/2022 20:52:53,Dompet,Transportation,Car,,10,Expense,,10,MYR,10
+25/12/2022 13:11:58,Dompet,Other,,,1.65,Expense,,1.65,MYR,1.65
+25/12/2022 14:34:54,Public Bank,Food & Drink,Lunch,,23.3,Expense,,23.3,MYR,23.3
+25/12/2022 16:07:32,Dompet,Food & Drink,Barang Dapur,,7.7,Expense,,7.7,MYR,7.7
+26/01/2023 17:27:49,Dompet,Food & Drink,Dinner,,5,Expense,,5,MYR,5
+26/01/2023 17:31:01,Dompet,Food & Drink,Dinner,,9,Expense,,9,MYR,9
+26/01/2023 17:34:34,Dompet,Food & Drink,Dinner,,3,Expense,,3,MYR,3
+26/01/2023 23:59:31,Public Bank,Credit Topup,Yoodo,,63,Expense,,63,MYR,63
+26/03/2023 13:14:57,Public Bank,Other,,,20.5,Expense,,20.5,MYR,20.5
+26/03/2023 17:13:32,Dompet,Food & Drink,Dinner,,10,Expense,,10,MYR,10
+26/03/2023 17:14:07,Dompet,Food & Drink,Drink,,6,Expense,,6,MYR,6
+26/04/2023 10:05:03,Dompet,Bank Islam,,,400,Transfer-Out,,400,MYR,400
+26/04/2023 10:42:05,Public Bank,Transportation,GrabCar,,5,Expense,,5,MYR,5
+26/04/2023 11:47:57,Dompet,Food & Drink,Barang Dapur,,3.9,Expense,,3.9,MYR,3.9
+26/04/2023 12:01:21,Dompet,Food & Drink,Drink,,5,Expense,,5,MYR,5
+26/04/2023 12:40:15,Dompet,Transportation,Bus,,4,Expense,,4,MYR,4
+26/04/2023 16:44:52,Public Bank,Game,Azurlane,,27.99,Expense,,27.99,MYR,27.99
+26/05/2023 12:21:34,Dompet,Food & Drink,Lunch,,4,Expense,,4,MYR,4
+26/05/2023 12:21:39,Dompet,Transportation,Bus,,2,Expense,,2,MYR,2
+26/06/2023 13:06:13,Dompet,Transportation,Bus,,2,Expense,,2,MYR,2
+26/08/2022 12:05:28,Dompet,Allowance,,,100,Income,,100,MYR,100
+26/09/2022 11:24:09,Public Bank,Credit Topup,Yoodo,,15,Expense,,15,MYR,15
+26/09/2022 16:30:05,Public Bank,Transportation,,,14,Expense,,14,MYR,14
+26/09/2022 16:31:13,Dompet,Allowance,,,10,Income,,10,MYR,10
+26/09/2022 19:00:15,Public Bank,Food & Drink,,,63.95,Expense,,63.95,MYR,63.95
+26/09/2022 20:49:52,Public Bank,Game,Honkai,,3.9,Expense,,3.9,MYR,3.9
+26/10/2022 11:32:26,Dompet,Other,,MOVIE,29,Expense,,29,MYR,29
+26/10/2022 12:03:49,Public Bank,Credit Topup,Digi,,20.07,Expense,,20.07,MYR,20.07
+26/10/2022 12:28:19,Public Bank,Food & Drink,,,23,Expense,,23,MYR,23
+26/10/2022 13:03:12,Public Bank,Health,Toiletries,,3,Expense,,3,MYR,3
+26/11/2022 08:20:04,Dompet,Food & Drink,Dinner,,15,Expense,,15,MYR,15
+26/11/2022 08:20:10,Dompet,Food & Drink,Breakfast,,7,Expense,,7,MYR,7
+26/11/2022 13:59:31,Public Bank,Food & Drink,Lunch,,25,Expense,,25,MYR,25
+26/12/2022 12:00:05,Public Bank,Dompet,,,100,Transfer-Out,,100,MYR,100
+26/12/2022 12:00:12,Bank Islam,Dompet,,,100,Transfer-Out,,100,MYR,100
+26/12/2022 12:44:51,Dompet,Apparel,Clothing,,89.9,Expense,,89.9,MYR,89.9
+26/12/2022 13:47:34,Public Bank,Food & Drink,Lunch,,44.05,Expense,,44.05,MYR,44.05
+27/01/2023 13:58:34,Dompet,Food & Drink,Lunch,,5,Expense,,5,MYR,5
+27/01/2023 13:58:40,Dompet,Food & Drink,Drink,,4,Expense,,4,MYR,4
+27/02/2023 13:19:02,Public Bank,Other,,Print,10,Expense,,10,MYR,10
+27/02/2023 13:19:16,Public Bank,Transportation,GrabCar,,14,Expense,,14,MYR,14
+27/02/2023 14:06:09,Dompet,Other,,,8.4,Expense,,8.4,MYR,8.4
+27/02/2023 14:18:50,Dompet,Transportation,Bus,,2,Expense,,2,MYR,2
+27/04/2023 13:03:37,Dompet,Food & Drink,Lunch,,10.5,Expense,,10.5,MYR,10.5
+27/05/2023 21:47:15,Public Bank,Food & Drink,Dinner,,16.7,Expense,,16.7,MYR,16.7
+27/06/2023 13:06:28,Dompet,Transportation,Bus,,2,Expense,,2,MYR,2
+27/06/2023 13:06:30,Dompet,Food & Drink,Lunch,,2,Expense,,2,MYR,2
+27/07/2023 17:28:43,Dompet,Health,Gym,,9,Expense,,9,MYR,9
+27/07/2023 19:17:02,Dompet,Food & Drink,Dinner,,11,Expense,,11,MYR,11
+27/08/2022 16:19:33,Dompet,Other,,Gunting Rambut,15,Expense,,15,MYR,15
+27/08/2023 11:40:03,Dompet,Other,,Telkomsel,34.81,Expense,,105000,IDR,34.81
+27/09/2022 12:38:12,Public Bank,Food & Drink,,,24.41,Expense,,24.41,MYR,24.41
+27/10/2022 10:05:06,Dompet,Food & Drink,,,12.3,Expense,,12.3,MYR,12.3
+27/10/2022 16:42:24,Public Bank,Game,Honkai,Battlepass,23.9,Expense,,23.9,MYR,23.9
+27/10/2022 16:42:38,Dompet,Food & Drink,,,2.5,Expense,,2.5,MYR,2.5
+27/11/2022 18:21:03,Dompet,Food & Drink,Dinner,,6.5,Expense,,6.5,MYR,6.5
+27/12/2022 13:15:58,Dompet,Food & Drink,Lunch,,5,Expense,,5,MYR,5
+27/12/2022 18:25:39,Dompet,Food & Drink,Dinner,,4,Expense,,4,MYR,4
+28/01/2023 12:12:46,Dompet,Food & Drink,Dinner,,6,Expense,,6,MYR,6
+28/02/2023 00:36:02,Bank Islam,Allowance,,,8,Income,,8,MYR,8
+28/03/2023 20:47:35,Dompet,Transportation,Bus,,4,Expense,,4,MYR,4
+28/03/2023 20:47:40,Public Bank,Game,Path to Nowhere,,23.99,Expense,,23.99,MYR,23.99
+28/04/2023 11:55:38,Public Bank,Transportation,GrabCar,,9,Expense,,9,MYR,9
+28/04/2023 11:55:47,Dompet,Transportation,Bus,,4,Expense,,4,MYR,4
+28/04/2023 13:40:16,Dompet,Food & Drink,Lunch,,9.5,Expense,,9.5,MYR,9.5
+28/04/2023 13:49:30,Public Bank,Transportation,GrabCar,,7,Expense,,7,MYR,7
+28/05/2023 18:13:47,Dompet,Health,Medicine,,10,Expense,,10,MYR,10
+28/06/2023 10:51:08,Public Bank,Other,,,110,Expense,,110,MYR,110
+28/06/2023 11:58:54,Dompet,Food & Drink,Lunch,,9,Expense,,9,MYR,9
+28/07/2022 19:22:28,Public Bank,Credit Topup,Digi,TOPUP MAK,10,Expense,,10,MYR,10
+28/08/2022 22:20:04,Public Bank,Credit Topup,Digi,INTERNET,20,Expense,,20,MYR,20
+28/09/2022 17:45:50,Dompet,Food & Drink,,,3,Expense,,3,MYR,3
+28/09/2022 17:49:45,Public Bank,Game,Genshin,Monthly Pass,19.9,Expense,,19.9,MYR,19.9
+28/10/2022 23:44:47,Public Bank,Other,,,40,Expense,,40,MYR,40
+28/12/2022 17:58:18,Dompet,Food & Drink,Dinner,,10,Expense,,10,MYR,10
+29/01/2023 12:12:46,Dompet,Food & Drink,Lunch,,3.5,Expense,,3.5,MYR,3.5
+29/01/2023 17:57:38,Dompet,Food & Drink,Dinner,,5,Expense,,5,MYR,5
+29/06/2023 13:12:07,Bank Islam,Allowance,,,200,Income,,200,MYR,200
+29/06/2023 17:08:17,Dompet,Apparel,,,5.3,Expense,,5.3,MYR,5.3
+29/06/2023 18:21:14,Dompet,Other,,Yes Simcard,30,Expense,,30,MYR,30
+29/07/2022 14:11:29,Public Bank,Credit Topup,Yoodo,,83,Expense,,83,MYR,83
+29/07/2023 04:38:10,Public Bank,Game,Arknight,,21.99,Expense,,21.99,MYR,21.99
+29/07/2023 13:27:33,Dompet,Transportation,Minyak,,30,Expense,,30,MYR,30
+29/07/2023 13:39:11,Dompet,Health,Toiletries,,7.5,Expense,,7.5,MYR,7.5
+29/07/2023 13:43:31,Dompet,Other,,,19,Expense,,19,MYR,19
+29/07/2023 13:43:31,Dompet,Food & Drink,Lunch,,4,Expense,,4,MYR,4
+29/09/2022 07:11:35,Public Bank,Credit Topup,Digi,,3,Expense,,3,MYR,3
+29/10/2022 17:07:48,Public Bank,Allowance,,,100,Income,,100,MYR,100
+29/10/2022 18:43:15,Public Bank,Game,Genshin,Monthly Pass,19.9,Expense,,19.9,MYR,19.9
+29/10/2022 18:43:38,Public Bank,Game,Genshin,Battlepass,39.9,Expense,,39.9,MYR,39.9
+29/10/2022 19:40:54,Public Bank,Credit Topup,Digi,,10,Expense,,10,MYR,10
+29/11/2022 13:02:40,Dompet,Food & Drink,Lunch,,6,Expense,,6,MYR,6
+29/11/2022 18:09:06,Dompet,Food & Drink,Dinner,,6,Expense,,6,MYR,6
+29/12/2022 17:50:54,Public Bank,Credit Topup,Yoodo,,25,Expense,,25,MYR,25
+30/01/2023 17:51:26,Dompet,Food & Drink,Dinner,,6.5,Expense,,6.5,MYR,6.5
+30/05/2023 11:42:57,Bank Islam,Allowance,,,200,Income,,200,MYR,200
+30/06/2023 17:35:04,Dompet,Transportation,Bus,,2,Expense,,2,MYR,2
+30/06/2023 17:35:12,Dompet,Transportation,Bus,,2,Expense,,2,MYR,2
+30/07/2023 10:35:54,Dompet,Food & Drink,Barang Dapur,,8,Expense,,8,MYR,8
+30/10/2022 16:29:05,Dompet,Food & Drink,Breakfast,,10.7,Expense,,10.7,MYR,10.7
+30/10/2022 18:32:10,Public Bank,Credit Topup,Yoodo,,83,Expense,,83,MYR,83
+30/10/2022 23:12:53,Public Bank,Game,Path to Nowhere,,23.99,Expense,,23.99,MYR,23.99
+30/11/2022 16:11:42,Dompet,Food & Drink,Lunch,,2,Expense,,2,MYR,2
+30/11/2022 17:49:35,Dompet,Food & Drink,Dinner,,6,Expense,,6,MYR,6
+30/11/2022 18:32:55,Public Bank,Boost,,,40,Transfer-Out,,40,MYR,40
+30/11/2022 18:37:14,Boost,Other,,,40,Expense,,40,MYR,40
+30/12/2022 10:25:28,Dompet,Allowance,,,15,Income,,15,MYR,15
+30/12/2022 10:25:37,Dompet,Food & Drink,Barang Dapur,,42.05,Expense,,42.05,MYR,42.05
+30/12/2022 18:25:58,Dompet,Food & Drink,Dinner,,11.5,Expense,,11.5,MYR,11.5
+31/01/2023 12:42:15,Dompet,Food & Drink,Lunch,,5,Expense,,5,MYR,5
+31/01/2023 17:42:41,Dompet,Food & Drink,Dinner,,5,Expense,,5,MYR,5
+31/01/2023 17:56:22,Dompet,Food & Drink,Drink,,4,Expense,,4,MYR,4
+31/01/2023 20:36:34,Public Bank,Allowance,,,200,Income,,200,MYR,200
+31/03/2023 07:06:43,Dompet,Transportation,Bus,,6,Expense,,6,MYR,6
+31/03/2023 22:58:15,Bank Islam,Allowance,,,200,Income,,200,MYR,200
+31/05/2023 13:06:37,Dompet,Allowance,,,100,Income,,100,MYR,100
+31/05/2023 16:19:52,Dompet,Food & Drink,Drink,,3.6,Expense,,3.6,MYR,3.6
+31/05/2023 19:41:08,Dompet,Food & Drink,Dinner,,24.9,Expense,,24.9,MYR,24.9
+31/05/2023 19:41:14,Dompet,Transportation,Minyak,,10,Expense,,10,MYR,10
+31/08/2022 11:23:28,Public Bank,Other,,CTOS,46.75,Expense,,46.75,MYR,46.75
+31/08/2022 14:00:08,Dompet,Credit Topup,Digi,,90,Expense,,90,MYR,90
+31/08/2022 15:03:31,Dompet,Food & Drink,,,14.9,Expense,,14.9,MYR,14.9
+31/12/2022 12:21:37,Dompet,Food & Drink,Lunch,,8,Expense,,8,MYR,8
+31/12/2022 18:06:39,Dompet,Food & Drink,Dinner,,9,Expense,,9,MYR,9

@@ -1,0 +1,388 @@
+﻿Date,Account,Category,Subcategory,Note,MYR,Income/Expense,Description,Amount,Currency,Account2
+01/03/2024 13:27:54,Cash,🍜 Food,Eating out,,2,Expense,,2,MYR,2
+01/03/2024 13:27:54,Cash,🍜 Food,Lunch,,9.4,Expense,,9.4,MYR,9.4
+01/10/2023 17:00:37,Cash,🚖 Transport,Minyak,,26.85,Expense,,26.85,MYR,26.85
+01/10/2023 18:21:09,Cash,🧘🏼 Health,Medicine,,24.9,Expense,,24.9,MYR,24.9
+01/10/2023 18:46:52,Public Bank,Cash,,,100,Transfer-Out,,100,MYR,100
+01/10/2023 19:32:53,Cash,🍜 Food,Dinner,,34.5,Expense,,34.5,MYR,34.5
+01/11/2023 22:22:35,Bank Islam,🤑 Allowance,,,200,Income,,200,MYR,200
+02/01/2024 18:50:53,Cash,🧘🏼 Health,Gym,,8,Expense,,8,MYR,8
+02/01/2024 18:53:45,Cash,🧘🏼 Health,Medicine,,7,Expense,,7,MYR,7
+02/01/2024 19:34:26,Cash,🍜 Food,Dinner,,12.7,Expense,,12.7,MYR,12.7
+02/02/2024 12:13:52,Cash,Other,Other,,2,Expense,,2,MYR,2
+02/03/2024 12:52:54,Cash,🍜 Food,Lunch,,25.9,Expense,,25.9,MYR,25.9
+02/03/2024 16:49:07,Public Bank,🧘🏼 Health,Toiletries,,21.45,Expense,,21.45,MYR,21.45
+02/10/2023 08:29:33,Public Bank,Phone,Yoodo,,32,Expense,,32,MYR,32
+03/01/2024 08:48:12,Public Bank,🎮 Game,Nikke,,23.99,Expense,,23.99,MYR,23.99
+03/10/2023 18:18:30,Cash,🚖 Transport,Bus,,2,Expense,,2,MYR,2
+03/10/2023 23:55:16,Bank Islam,🤑 Allowance,,,200,Income,,200,MYR,200
+03/11/2023 16:42:15,Public Bank,🎮 Game,Nikke,,23.99,Expense,,23.99,MYR,23.99
+03/12/2023 11:56:04,Cash,🚖 Transport,Parking Ticket,,3,Expense,,3,MYR,3
+03/12/2023 12:55:47,Cash,🤑 Allowance,,,180,Income,,180,MYR,180
+03/12/2023 12:55:57,Cash,🧥 Apparel,,,40.1,Expense,,40.1,MYR,40.1
+03/12/2023 13:20:59,Cash,🧘🏼 Health,Medicine,,8.2,Expense,,8.2,MYR,8.2
+03/12/2023 13:26:10,Cash,🍜 Food,Lunch,,40.45,Expense,,40.45,MYR,40.45
+03/12/2023 16:20:26,Cash,🚖 Transport,Minyak,,15,Expense,,15,MYR,15
+04/02/2024 17:57:47,Cash,🍜 Food,Eating out,,3.3,Expense,,3.3,MYR,3.3
+04/02/2024 22:58:26,Public Bank,🎮 Game,Honkai Star Rail,,39.9,Expense,,39.9,MYR,39.9
+04/02/2024 23:40:21,Public Bank,Phone,Yoodo,,15,Expense,,15,MYR,15
+04/03/2024 12:12:59,Cash,🤑 Allowance,,,10,Income,,10,MYR,10
+04/03/2024 13:17:17,Public Bank,Cash,,,50,Transfer-Out,,50,MYR,50
+04/03/2024 13:17:17,Public Bank,Other,,Fees,1,Expense,,1,MYR,1
+04/03/2024 13:17:27,Bank Islam,Cash,,,50,Transfer-Out,,50,MYR,50
+04/03/2024 13:17:27,Bank Islam,Other,,Fees,1,Expense,,1,MYR,1
+04/03/2024 16:09:46,Cash,🍜 Food,Lunch,,3.9,Expense,,3.9,MYR,3.9
+04/03/2024 16:55:45,Cash,🍜 Food,Eating out,,4.6,Expense,,4.6,MYR,4.6
+04/03/2024 23:20:41,Cash,🍜 Food,Dinner,,9,Expense,,9,MYR,9
+04/03/2024 23:20:45,Cash,🍜 Food,Beverages,,5,Expense,,5,MYR,5
+04/10/2023 13:46:38,Public Bank,🎮 Game,Azurlane,,93.96,Expense,,93.96,MYR,93.96
+04/10/2023 22:13:10,Cash,🤑 Allowance,,,100,Income,,100,MYR,100
+04/12/2023 16:43:55,Bank Islam,🤑 Allowance,,,200,Income,,200,MYR,200
+05/01/2024 12:00:50,Bank Islam,Other,Other,Jam Tangan,320.29,Expense,,320.29,MYR,320.29
+05/02/2024 11:53:17,Cash,🚖 Transport,Bus,,2,Expense,,2,MYR,2
+05/02/2024 11:53:21,Cash,Other,Other,Print Resume,2,Expense,,2,MYR,2
+05/02/2024 12:11:28,Cash,🧘🏼 Health,Medicine,,4.5,Expense,,4.5,MYR,4.5
+05/02/2024 12:57:04,Cash,🍜 Food,Lunch,,38.5,Expense,,38.5,MYR,38.5
+05/02/2024 13:02:55,Bank Islam,Cash,,,50,Transfer-Out,,50,MYR,50
+05/02/2024 13:02:55,Bank Islam,Other,,Fees,1,Expense,,1,MYR,1
+05/03/2024 12:02:39,Cash,🍜 Food,Lunch,,10.5,Expense,,10.5,MYR,10.5
+05/03/2024 16:42:24,Cash,🍜 Food,Eating out,,9.9,Expense,,9.9,MYR,9.9
+05/10/2023 18:52:40,Cash,🧘🏼 Health,Gym,,8,Expense,,8,MYR,8
+05/10/2023 18:52:47,Cash,🍜 Food,Dinner,,11.6,Expense,,11.6,MYR,11.6
+06/01/2024 18:09:31,Public Bank,🤑 Allowance,,,300,Income,,300,MYR,300
+06/01/2024 18:09:45,Cash,🧘🏼 Health,Medicine,,4.5,Expense,,4.5,MYR,4.5
+06/01/2024 18:09:49,Cash,🧘🏼 Health,Gym,,5,Expense,,5,MYR,5
+06/01/2024 19:26:34,Public Bank,🍜 Food,Dinner,,23.75,Expense,,23.75,MYR,23.75
+06/02/2024 19:03:42,Cash,🧘🏼 Health,Gym,,8,Expense,,8,MYR,8
+06/02/2024 20:35:37,Bank Islam,🤑 Allowance,,,200,Income,,200,MYR,200
+06/03/2024 13:19:50,Cash,🍜 Food,Eating out,,3,Expense,,3,MYR,3
+06/03/2024 13:19:50,Cash,🍜 Food,Lunch,,4.4,Expense,,4.4,MYR,4.4
+06/11/2023 13:33:37,Public Bank,Other,Other,Tiket Sabah,15,Expense,,15,MYR,15
+06/12/2023 10:12:34,Cash,🚖 Transport,Bus,,3,Expense,,3,MYR,3
+06/12/2023 12:42:06,Public Bank,🚖 Transport,Grabcar,,8,Expense,,8,MYR,8
+06/12/2023 13:19:38,Cash,🚖 Transport,Bus,,2,Expense,,2,MYR,2
+06/12/2023 13:40:43,Cash,🍜 Food,Lunch,,25.8,Expense,,25.8,MYR,25.8
+06/12/2023 14:07:02,Cash,🚖 Transport,Bus,,2,Expense,,2,MYR,2
+06/12/2023 15:27:53,Cash,Other,Other,LAMINATE KERTAS KONVO,10,Expense,,10,MYR,10
+07/03/2024 13:27:56,Cash,🍜 Food,Eating out,,4.6,Expense,,4.6,MYR,4.6
+07/03/2024 16:33:23,Cash,🧘🏼 Health,Medicine,,10,Expense,,10,MYR,10
+07/03/2024 23:44:22,Bank Islam,🤑 Allowance,,,200,Income,,200,MYR,200
+07/10/2023 17:53:22,Cash,🚖 Transport,Parking Ticket,,3,Expense,,3,MYR,3
+07/10/2023 18:03:52,Cash,🍜 Food,Dinner,,20.05,Expense,,20.05,MYR,20.05
+07/10/2023 18:27:23,Cash,🍜 Food,Dinner,,11,Expense,,11,MYR,11
+07/10/2023 18:35:38,Cash,🍜 Food,Dinner,,4,Expense,,4,MYR,4
+07/11/2023 14:40:16,Cash,🤑 Allowance,,,60,Income,,60,MYR,60
+07/11/2023 14:40:26,Cash,🍜 Food,Lunch,,21,Expense,,21,MYR,21
+07/11/2023 14:53:54,Public Bank,🚖 Transport,Grabcar,,10,Expense,,10,MYR,10
+07/12/2023 20:56:03,Public Bank,🎮 Game,Honkai Star Rail,,19.9,Expense,,19.9,MYR,19.9
+08/01/2024 11:18:38,Cash,🚖 Transport,Bus,,2,Expense,,2,MYR,2
+08/01/2024 11:18:51,Cash,🤑 Allowance,,,50,Income,,50,MYR,50
+08/01/2024 11:19:01,Bank Rakyat,🤑 Allowance,,,50,Income,,50,MYR,50
+08/01/2024 13:04:31,Cash,🍜 Food,Lunch,,13.45,Expense,,13.45,MYR,13.45
+08/01/2024 13:27:23,Cash,🍜 Food,Groceries,,4.6,Expense,,4.6,MYR,4.6
+08/01/2024 13:45:12,Cash,🚖 Transport,Bus,,2,Expense,,2,MYR,2
+08/03/2024 13:57:43,Public Bank,Phone,Maxis,,72.05,Expense,,72.05,MYR,72.05
+08/10/2023 18:13:27,Public Bank,🚖 Transport,Parking Ticket,,2.4,Expense,,2.4,MYR,2.4
+08/10/2023 18:13:33,Cash,🧘🏼 Health,Gym,,5,Expense,,5,MYR,5
+08/11/2023 13:03:27,Public Bank,🎮 Game,Genshin Impact,,19.9,Expense,,19.9,MYR,19.9
+08/12/2023 17:04:57,Cash,🍜 Food,Eating out,,2,Expense,,2,MYR,2
+08/12/2023 17:05:03,Cash,🍜 Food,Groceries,,5,Expense,,5,MYR,5
+08/12/2023 17:36:59,Cash,🤑 Allowance,,,100,Income,,100,MYR,100
+08/12/2023 17:37:05,Cash,Other,Other,,15,Expense,,15,MYR,15
+08/12/2023 20:56:27,Cash,🧘🏼 Health,Medicine,,40,Expense,,40,MYR,40
+09/02/2024 19:17:27,Public Bank,🍜 Food,Dinner,,23.3,Expense,,23.3,MYR,23.3
+09/02/2024 19:17:44,Cash,🧘🏼 Health,Gym,,10,Expense,,10,MYR,10
+09/03/2024 08:22:41,Public Bank,🎮 Game,Honkai Star Rail,,19.9,Expense,,19.9,MYR,19.9
+09/03/2024 15:07:24,Cash,🍜 Food,Lunch,,12.9,Expense,,12.9,MYR,12.9
+09/03/2024 19:58:02,Cash,🍜 Food,Beverages,,10.9,Expense,,10.9,MYR,10.9
+09/10/2023 08:15:16,Public Bank,Other,Other,RENEW IC,10,Expense,,10,MYR,10
+09/10/2023 09:40:18,Cash,🚖 Transport,Bus,,2,Expense,,2,MYR,2
+09/11/2023 16:47:11,Cash,🤑 Allowance,,,50,Income,,50,MYR,50
+09/11/2023 19:54:37,Cash,🍜 Food,Dinner,,6,Expense,,6,MYR,6
+09/12/2023 12:11:40,Public Bank,🚖 Transport,Grabcar,,12,Expense,,12,MYR,12
+09/12/2023 12:23:24,Cash,🍜 Food,Lunch,,27.8,Expense,,27.8,MYR,27.8
+09/12/2023 13:23:27,Cash,🚖 Transport,Bus,,2,Expense,,2,MYR,2
+09/12/2023 13:36:37,Cash,🚖 Transport,Bus,,2,Expense,,2,MYR,2
+09/12/2023 14:40:28,Cash,🧘🏼 Health,Medicine,,28,Expense,,28,MYR,28
+10/03/2024 12:02:52,Cash,🚖 Transport,Parking Ticket,,3,Expense,,3,MYR,3
+10/03/2024 15:50:57,Cash,🍜 Food,Eating out,,10,Expense,,10,MYR,10
+10/03/2024 15:50:57,Public Bank,🎮 Game,Arknight,,21.99,Expense,,21.99,MYR,21.99
+10/10/2023 00:04:29,Public Bank,Phone,Yoodo,,15,Expense,,15,MYR,15
+10/11/2023 17:12:19,Cash,🍜 Food,Eating out,,6,Expense,,6,MYR,6
+11/01/2024 19:06:17,Cash,🧘🏼 Health,Gym,,8,Expense,,8,MYR,8
+11/01/2024 19:06:25,Cash,🍜 Food,Groceries,,11.2,Expense,,11.2,MYR,11.2
+11/01/2024 19:06:31,Cash,🍜 Food,Dinner,,9.6,Expense,,9.6,MYR,9.6
+11/02/2024 07:51:46,Cash,🍜 Food,Breakfast,,14.15,Expense,,14.15,MYR,14.15
+11/02/2024 18:09:54,Cash,🤑 Allowance,,,28,Income,,28,MYR,28
+11/02/2024 18:14:54,Cash,Other,Other,,4.45,Expense,,4.45,MYR,4.45
+11/02/2024 18:25:45,Cash,🍜 Food,Dinner,,38.5,Expense,,38.5,MYR,38.5
+11/02/2024 18:25:52,Bank Islam,Cash,,,100,Transfer-Out,,100,MYR,100
+11/02/2024 18:25:52,Bank Islam,Other,,Fees,1,Expense,,1,MYR,1
+11/02/2024 18:56:34,Cash,🍜 Food,Dinner,,24.5,Expense,,24.5,MYR,24.5
+11/03/2024 13:22:14,Cash,🍜 Food,Eating out,,6.1,Expense,,6.1,MYR,6.1
+11/10/2023 14:07:57,Public Bank,🎮 Game,Honkai Star Rail,,19.9,Expense,,19.9,MYR,19.9
+11/10/2023 18:32:38,Cash,🍜 Food,Dinner,,3.6,Expense,,3.6,MYR,3.6
+11/10/2023 18:32:43,Cash,🧘🏼 Health,Gym,,8,Expense,,8,MYR,8
+11/10/2023 18:54:55,Cash,🍜 Food,Dinner,,9.5,Expense,,9.5,MYR,9.5
+11/11/2023 17:47:22,Cash,Other,Other,,6,Expense,,6,MYR,6
+11/11/2023 17:56:46,Cash,🧘🏼 Health,Toiletries,,5,Expense,,5,MYR,5
+11/12/2023 17:36:55,Cash,🍜 Food,Beverages,,8,Expense,,8,MYR,8
+11/12/2023 17:37:14,Cash,🍜 Food,Dinner,,7,Expense,,7,MYR,7
+12/01/2024 16:59:45,Cash,Other,Other,Rambut,20,Expense,,20,MYR,20
+12/01/2024 17:07:35,Cash,🍜 Food,Eating out,,3,Expense,,3,MYR,3
+12/03/2024 18:15:47,Cash,🍜 Food,Dinner,,9,Expense,,9,MYR,9
+12/03/2024 18:23:53,Cash,🍜 Food,Beverages,,3,Expense,,3,MYR,3
+12/03/2024 18:38:02,Cash,🍜 Food,Groceries,,10.5,Expense,,10.5,MYR,10.5
+12/03/2024 18:38:08,Cash,🍜 Food,Groceries,,12.8,Expense,,12.8,MYR,12.8
+12/03/2024 23:03:17,Public Bank,🎮 Game,Steam,,26.13,Expense,,26.13,MYR,26.13
+12/11/2023 17:51:43,Cash,🍜 Food,Beverages,,2.25,Expense,,2.25,MYR,2.25
+12/11/2023 18:54:21,Cash,🍜 Food,Dinner,,9.6,Expense,,9.6,MYR,9.6
+13/01/2024 18:54:31,Cash,🍜 Food,Dinner,,11,Expense,,11,MYR,11
+13/01/2024 18:59:48,Cash,🍜 Food,Beverages,,6,Expense,,6,MYR,6
+13/01/2024 19:23:53,Public Bank,Cash,,,150,Transfer-Out,,150,MYR,150
+13/01/2024 19:23:53,Public Bank,Other,,Fees,1,Expense,,1,MYR,1
+13/01/2024 19:23:53,Cash,🍜 Food,Dinner,,10,Expense,,10,MYR,10
+13/01/2024 19:23:53,Cash,🍜 Food,Dinner,,4,Expense,,4,MYR,4
+13/03/2024 13:02:00,Cash,🤑 Allowance,,,50,Income,,50,MYR,50
+13/03/2024 17:22:55,Cash,🍜 Food,Ramadan,,8,Expense,,8,MYR,8
+13/03/2024 17:26:19,Cash,🍜 Food,Ramadan,,4,Expense,,4,MYR,4
+13/11/2023 12:06:35,Public Bank,🎮 Game,Arknight,,21.99,Expense,,21.99,MYR,21.99
+13/12/2023 09:14:53,Cash,Other,Other,Aktif Bank,10,Expense,,10,MYR,10
+13/12/2023 09:15:02,Cash,🚖 Transport,Bus,,2,Expense,,2,MYR,2
+13/12/2023 10:18:18,Cash,🤑 Allowance,,,100,Income,,100,MYR,100
+13/12/2023 12:26:29,Bank Rakyat,Modified Bal.,,Difference,69.12,Income,,69.12,MYR,69.12
+13/12/2023 12:26:58,Bank Rakyat,🤑 Allowance,,,137.83,Income,,137.83,MYR,137.83
+13/12/2023 12:42:48,Cash,Other,Other,Gambar Konvo,5,Expense,,5,MYR,5
+13/12/2023 13:15:07,Cash,🍜 Food,Lunch,,4,Expense,,4,MYR,4
+13/12/2023 13:26:20,Cash,🍜 Food,Beverages,,4,Expense,,4,MYR,4
+13/12/2023 13:26:25,Cash,🍜 Food,Lunch,,12,Expense,,12,MYR,12
+13/12/2023 13:48:23,Cash,🚖 Transport,Grabcar,,5,Expense,,5,MYR,5
+13/12/2023 14:19:14,Bank Rakyat,Cash,,,40,Transfer-Out,,40,MYR,40
+13/12/2023 14:19:28,Cash,🚖 Transport,Bus,,4,Expense,,4,MYR,4
+14/02/2024 11:16:23,Cash,🚖 Transport,Bus,,3,Expense,,3,MYR,3
+14/02/2024 11:16:38,Cash,🤑 Allowance,,,10,Income,,10,MYR,10
+14/02/2024 11:26:30,Cash,🍜 Food,Beverages,,1.2,Expense,,1.2,MYR,1.2
+14/02/2024 13:11:37,Cash,🍜 Food,Lunch,,11,Expense,,11,MYR,11
+14/02/2024 13:21:34,Cash,Phone,Maxis,,10,Expense,,10,MYR,10
+14/02/2024 13:21:39,Public Bank,🚖 Transport,Grabcar,,5,Expense,,5,MYR,5
+14/02/2024 13:30:13,Cash,🚖 Transport,Bus,,3,Expense,,3,MYR,3
+14/02/2024 19:04:05,Public Bank,Phone,Yoodo,,15,Expense,,15,MYR,15
+14/03/2024 17:00:27,Cash,🍜 Food,Eating out,,6,Expense,,6,MYR,6
+14/03/2024 17:05:06,Cash,🍜 Food,Ramadan,,4,Expense,,4,MYR,4
+14/03/2024 22:01:31,Public Bank,🧘🏼 Health,Toiletries,,15,Expense,,15,MYR,15
+14/10/2023 17:59:00,Cash,🍜 Food,Eating out,,3.5,Expense,,3.5,MYR,3.5
+14/12/2023 16:45:15,Cash,🍜 Food,Beverages,,0.6,Expense,,0.6,MYR,0.6
+14/12/2023 17:01:13,Cash,🧘🏼 Health,Gym,,8,Expense,,8,MYR,8
+14/12/2023 19:09:52,Cash,🍜 Food,Dinner,,12.7,Expense,,12.7,MYR,12.7
+14/12/2023 19:22:13,Cash,🍜 Food,Groceries,,6.6,Expense,,6.6,MYR,6.6
+14/12/2023 19:22:25,Cash,🧘🏼 Health,Toiletries,,32.8,Expense,,32.8,MYR,32.8
+15/01/2024 19:42:21,Cash,🤑 Allowance,,,17,Income,,17,MYR,17
+15/01/2024 19:42:45,Cash,🍜 Food,Groceries,,17.25,Expense,,17.25,MYR,17.25
+15/02/2024 18:35:59,Cash,🧘🏼 Health,Gym,,8,Expense,,8,MYR,8
+15/02/2024 19:08:43,Cash,🍜 Food,Dinner,,7.6,Expense,,7.6,MYR,7.6
+15/02/2024 19:11:18,Cash,🍜 Food,Groceries,,4.6,Expense,,4.6,MYR,4.6
+15/02/2024 19:21:34,Cash,Other,Other,Tisu,9.3,Expense,,9.3,MYR,9.3
+15/03/2024 16:40:21,Cash,🍜 Food,Ramadan,,8,Expense,,8,MYR,8
+15/03/2024 16:43:05,Cash,🍜 Food,Ramadan,,6,Expense,,6,MYR,6
+16/02/2024 17:57:48,Cash,🧘🏼 Health,Medicine,,2,Expense,,2,MYR,2
+16/03/2024 16:17:09,Bank Islam,Cash,,,100,Transfer-Out,,100,MYR,100
+16/03/2024 16:17:09,Bank Islam,Other,,Fees,1,Expense,,1,MYR,1
+16/03/2024 16:20:41,Cash,🍜 Food,Ramadan,,9,Expense,,9,MYR,9
+16/03/2024 16:24:34,Cash,🍜 Food,Ramadan,,6,Expense,,6,MYR,6
+16/10/2023 11:14:21,Bank Islam,Public Bank,,,300,Transfer-Out,,300,MYR,300
+16/10/2023 11:14:21,Bank Islam,Other,,Fees,0.1,Expense,,0.1,MYR,0.1
+16/10/2023 11:14:41,Public Bank,Phone,Maxis,,80.55,Expense,,80.55,MYR,80.55
+16/11/2023 16:44:15,Cash,🍜 Food,Eating out,,3,Expense,,3,MYR,3
+16/11/2023 19:24:12,Cash,🤑 Allowance,,,50,Income,,50,MYR,50
+16/11/2023 19:24:23,Cash,🍜 Food,Dinner,,45,Expense,,45,MYR,45
+17/01/2024 14:03:42,Cash,Other,Other,Data Engineering Class,31,Expense,,31,MYR,31
+17/01/2024 19:33:52,Cash,🍜 Food,Dinner,,20,Expense,,20,MYR,20
+17/01/2024 19:33:57,Cash,🧘🏼 Health,Medicine,,4,Expense,,4,MYR,4
+17/01/2024 19:33:57,Cash,🍜 Food,Groceries,,2.3,Expense,,2.3,MYR,2.3
+17/03/2024 12:53:20,Public Bank,🎮 Game,Honkai Impact 3rd,,23.9,Expense,,23.9,MYR,23.9
+17/03/2024 20:10:33,Public Bank,🎮 Game,Azurlane,,29.99,Expense,,29.99,MYR,29.99
+17/12/2023 13:14:17,Cash,🍜 Food,Lunch,,5,Expense,,5,MYR,5
+17/12/2023 18:58:31,Cash,🍜 Food,Dinner,,14,Expense,,14,MYR,14
+17/12/2023 19:13:37,Cash,🍜 Food,Dinner,,13,Expense,,13,MYR,13
+17/12/2023 21:45:36,Public Bank,Other,Other,,15,Expense,,15,MYR,15
+18/03/2024 16:40:36,Cash,🍜 Food,Ramadan,,4,Expense,,4,MYR,4
+18/03/2024 16:40:59,Cash,🍜 Food,Ramadan,,4,Expense,,4,MYR,4
+18/03/2024 16:41:09,Cash,🍜 Food,Ramadan,,9,Expense,,9,MYR,9
+18/11/2023 17:10:37,Cash,🍜 Food,Eating out,,5.4,Expense,,5.4,MYR,5.4
+18/11/2023 17:16:10,Cash,🍜 Food,Groceries,,15.5,Expense,,15.5,MYR,15.5
+18/11/2023 17:36:12,Cash,🍜 Food,Eating out,,2,Expense,,2,MYR,2
+18/11/2023 17:36:16,Cash,🍜 Food,Beverages,,4,Expense,,4,MYR,4
+18/11/2023 17:46:57,Cash,🍜 Food,Dinner,,11,Expense,,11,MYR,11
+19/02/2024 10:13:26,Cash,🤑 Allowance,,,100,Income,,100,MYR,100
+19/02/2024 10:32:29,Cash,🚖 Transport,Bus,,2,Expense,,2,MYR,2
+19/02/2024 10:44:59,Cash,Other,Other,Print/Fotostat,6.4,Expense,,6.4,MYR,6.4
+19/02/2024 10:45:42,Cash,Other,Other,Gambar,15,Expense,,15,MYR,15
+19/02/2024 11:24:50,Cash,🚖 Transport,Bus,,3,Expense,,3,MYR,3
+19/02/2024 11:48:06,Public Bank,🚖 Transport,Grabcar,,5,Expense,,5,MYR,5
+19/02/2024 12:16:39,Cash,Other,Other,Box Cutter,15.5,Expense,,15.5,MYR,15.5
+19/02/2024 12:30:42,Bank Islam,Cash,,,100,Transfer-Out,,100,MYR,100
+19/02/2024 12:30:42,Bank Islam,Other,,Fees,1,Expense,,1,MYR,1
+19/02/2024 12:32:51,Cash,🍜 Food,Lunch,,29.5,Expense,,29.5,MYR,29.5
+19/02/2024 13:17:50,Cash,🧥 Apparel,,,70,Expense,,70,MYR,70
+19/02/2024 13:23:03,Public Bank,🚖 Transport,Grabcar,,9,Expense,,9,MYR,9
+19/02/2024 14:04:39,Cash,🚖 Transport,Bus,,2,Expense,,2,MYR,2
+19/02/2024 14:35:33,Public Bank,🚖 Transport,Grabcar,,10,Expense,,10,MYR,10
+19/02/2024 15:19:36,Cash,🧘🏼 Health,Gunting Rambut,,18,Expense,,18,MYR,18
+19/03/2024 22:29:11,Public Bank,Other,Other,ChatGPT,6,Expense,,6,MYR,6
+19/10/2023 10:02:50,Cash,🚖 Transport,Bus,,4,Expense,,4,MYR,4
+19/10/2023 11:22:10,Public Bank,🚖 Transport,Grabcar,,9,Expense,,9,MYR,9
+19/11/2023 08:31:24,Public Bank,Phone,Maxis,,65.65,Expense,,65.65,MYR,65.65
+19/11/2023 08:31:35,Cash,🤑 Allowance,,,50,Income,,50,MYR,50
+19/11/2023 18:27:34,Cash,🧘🏼 Health,Toiletries,,30.8,Expense,,30.8,MYR,30.8
+19/11/2023 18:46:54,Cash,🧘🏼 Health,Gym,,5,Expense,,5,MYR,5
+19/11/2023 18:46:54,Cash,🍜 Food,Dinner,,25.9,Expense,,25.9,MYR,25.9
+19/12/2023 11:13:53,Public Bank,Phone,Maxis,,79.84,Expense,,79.84,MYR,79.84
+19/12/2023 11:14:15,Public Bank,🤑 Allowance,,,200,Income,,200,MYR,200
+19/12/2023 16:50:12,Cash,🧘🏼 Health,Gym,,8,Expense,,8,MYR,8
+19/12/2023 18:43:04,Cash,🍜 Food,Dinner,,20,Expense,,20,MYR,20
+19/12/2023 19:13:02,Bank Islam,Cash,,,150,Transfer-Out,,150,MYR,150
+19/12/2023 19:13:02,Bank Islam,Other,,Fees,1,Expense,,1,MYR,1
+19/12/2023 19:17:38,Cash,🍜 Food,Groceries,,11.2,Expense,,11.2,MYR,11.2
+20/01/2024 11:44:08,Public Bank,🚖 Transport,Grabcar,,5,Expense,,5,MYR,5
+20/01/2024 14:00:33,Cash,🍜 Food,Lunch,,20.5,Expense,,20.5,MYR,20.5
+20/01/2024 14:00:39,Cash,🍜 Food,Eating out,,23,Expense,,23,MYR,23
+20/01/2024 14:49:09,Cash,🚖 Transport,Bus,,3,Expense,,3,MYR,3
+20/10/2023 09:57:45,Cash,🍜 Food,Groceries,,1,Expense,,1,MYR,1
+20/12/2023 10:51:15,Cash,🚖 Transport,Bus,,2,Expense,,2,MYR,2
+20/12/2023 10:52:43,Cash,🚖 Transport,Bus,,3,Expense,,3,MYR,3
+20/12/2023 11:30:31,Public Bank,🚖 Transport,Grabcar,,3,Expense,,3,MYR,3
+20/12/2023 12:11:48,Public Bank,🚖 Transport,Grabcar,,14,Expense,,14,MYR,14
+20/12/2023 12:57:32,Cash,🍜 Food,Lunch,,13,Expense,,13,MYR,13
+20/12/2023 13:23:08,Cash,🍜 Food,Beverages,,16,Expense,,16,MYR,16
+20/12/2023 18:49:56,Cash,🍜 Food,Beverages,,5.9,Expense,,5.9,MYR,5.9
+21/01/2024 08:02:53,Cash,🍜 Food,Breakfast,,12.35,Expense,,12.35,MYR,12.35
+21/01/2024 11:53:28,Public Bank,Cash,,,10,Transfer-Out,,10,MYR,10
+21/01/2024 17:54:17,Cash,🚖 Transport,Parking Ticket,,4,Expense,,4,MYR,4
+21/01/2024 17:54:23,Cash,🧘🏼 Health,Gym,,5,Expense,,5,MYR,5
+21/01/2024 19:14:07,Cash,🍜 Food,Dinner,,9.6,Expense,,9.6,MYR,9.6
+21/02/2024 18:59:35,Cash,🧘🏼 Health,Gym,,8,Expense,,8,MYR,8
+21/02/2024 19:04:17,Cash,🍜 Food,Dinner,,3.6,Expense,,3.6,MYR,3.6
+21/02/2024 19:44:22,Cash,🍜 Food,Dinner,,9.5,Expense,,9.5,MYR,9.5
+21/03/2024 16:57:32,Cash,🍜 Food,Ramadan,,6,Expense,,6,MYR,6
+21/03/2024 16:57:42,Cash,🍜 Food,Ramadan,,3,Expense,,3,MYR,3
+21/10/2023 15:51:19,Cash,🍜 Food,Eating out,,12,Expense,,12,MYR,12
+21/10/2023 15:51:32,Cash,🍜 Food,Beverages,,5,Expense,,5,MYR,5
+21/10/2023 16:22:43,Cash,🍜 Food,Eating out,,10.5,Expense,,10.5,MYR,10.5
+21/11/2023 11:09:04,Cash,🍜 Food,Lunch,,7.5,Expense,,7.5,MYR,7.5
+21/11/2023 14:54:14,Cash,🍜 Food,Lunch,,9.9,Expense,,9.9,MYR,9.9
+22/03/2024 18:06:47,Cash,🍜 Food,Ramadan,,2,Expense,,2,MYR,2
+22/03/2024 18:06:51,Cash,🍜 Food,Ramadan,,8,Expense,,8,MYR,8
+22/03/2024 18:10:24,Cash,🍜 Food,Ramadan,,8,Expense,,8,MYR,8
+22/03/2024 18:11:42,Cash,🍜 Food,Ramadan,,3,Expense,,3,MYR,3
+22/10/2023 16:43:57,Cash,🧘🏼 Health,Gym,,5,Expense,,5,MYR,5
+22/10/2023 18:25:24,Cash,Other,Other,,20,Expense,,20,MYR,20
+22/10/2023 18:29:54,Public Bank,Other,Other,,39.55,Expense,,39.55,MYR,39.55
+22/10/2023 19:10:07,Public Bank,🍜 Food,Dinner,,23.3,Expense,,23.3,MYR,23.3
+22/11/2023 18:49:51,Cash,🍜 Food,Dinner,,6.9,Expense,,6.9,MYR,6.9
+22/11/2023 18:49:58,Cash,🧘🏼 Health,Gym,,8,Expense,,8,MYR,8
+22/11/2023 18:50:07,Public Bank,Cash,,,50,Transfer-Out,,50,MYR,50
+22/11/2023 18:50:07,Public Bank,Other,,Fees,1,Expense,,1,MYR,1
+22/12/2023 12:13:15,Public Bank,Other,Books,,29.99,Expense,,29.99,MYR,29.99
+23/01/2024 10:25:49,Cash,🚖 Transport,Bus,,2,Expense,,2,MYR,2
+23/01/2024 10:28:13,Bank Islam,Cash,,,100,Transfer-Out,,100,MYR,100
+23/01/2024 10:28:13,Bank Islam,Other,,Fees,1,Expense,,1,MYR,1
+23/01/2024 10:32:41,Cash,🧘🏼 Health,Toiletries,,18.9,Expense,,18.9,MYR,18.9
+23/01/2024 10:44:55,Cash,Other,Other,Print Resume,5,Expense,,5,MYR,5
+23/01/2024 10:56:58,Cash,🚖 Transport,Bus,,2,Expense,,2,MYR,2
+23/01/2024 11:45:44,Cash,🚖 Transport,Bus,,2,Expense,,2,MYR,2
+23/01/2024 12:57:47,Cash,🍜 Food,Lunch,,25.9,Expense,,25.9,MYR,25.9
+23/01/2024 14:18:36,Cash,🚖 Transport,Bus,,3,Expense,,3,MYR,3
+23/02/2024 10:46:00,Public Bank,🤑 Allowance,,,200,Income,,200,MYR,200
+23/03/2024 16:28:54,Cash,🍜 Food,Ramadan,,11,Expense,,11,MYR,11
+23/03/2024 20:09:19,Cash,🧥 Apparel,,,19.7,Expense,,19.7,MYR,19.7
+23/11/2023 09:39:47,Bank Islam,Other,Other,Yuran Konvo UMS,185,Expense,,185,MYR,185
+23/12/2023 07:50:26,Cash,🍜 Food,Breakfast,,11.3,Expense,,11.3,MYR,11.3
+24/01/2024 11:13:26,Public Bank,🤑 Allowance,,,200,Income,,200,MYR,200
+24/03/2024 16:38:57,Cash,🍜 Food,Ramadan,,10,Expense,,10,MYR,10
+24/03/2024 22:20:54,Public Bank,🧘🏼 Health,Toiletries,,21.35,Expense,,21.35,MYR,21.35
+24/03/2024 23:22:16,Public Bank,🎮 Game,Honkai Star Rail,,39.9,Expense,,39.9,MYR,39.9
+24/10/2023 17:11:05,Cash,Other,Other,,3.8,Expense,,3.8,MYR,3.8
+24/10/2023 17:15:10,Cash,🍜 Food,Eating out,,5,Expense,,5,MYR,5
+24/10/2023 19:12:51,Public Bank,🎮 Game,Honkai Star Rail,,39.9,Expense,,39.9,MYR,39.9
+24/11/2023 10:45:24,Cash,🚖 Transport,Minyak,,15,Expense,,15,MYR,15
+24/11/2023 10:45:24,Public Bank,🤑 Allowance,,,200,Income,,200,MYR,200
+24/12/2023 20:46:07,Public Bank,🎮 Game,Honkai Star Rail,,39.9,Expense,,39.9,MYR,39.9
+25/01/2024 15:39:38,Cash,🚖 Transport,Bus,,3,Expense,,3,MYR,3
+25/01/2024 15:39:53,Cash,🚖 Transport,Bus,,3,Expense,,3,MYR,3
+25/02/2024 18:23:29,Public Bank,Phone,Yoodo,,31,Expense,,31,MYR,31
+25/03/2024 11:43:38,Cash,🤑 Allowance,,,10,Income,,10,MYR,10
+25/03/2024 17:29:48,Cash,🤑 Allowance,,,10,Income,,10,MYR,10
+25/03/2024 17:29:59,Cash,🍜 Food,Ramadan,,9,Expense,,9,MYR,9
+25/03/2024 17:30:06,Cash,🍜 Food,Ramadan,,6,Expense,,6,MYR,6
+25/03/2024 17:33:00,Cash,🍜 Food,Ramadan,,8,Expense,,8,MYR,8
+25/10/2023 07:52:17,Public Bank,🤑 Allowance,,,200,Income,,200,MYR,200
+25/10/2023 18:33:14,Public Bank,Cash,,,50,Transfer-Out,,50,MYR,50
+25/10/2023 18:33:14,Public Bank,Other,,Fees,1,Expense,,1,MYR,1
+25/10/2023 19:02:59,Cash,🍜 Food,Dinner,,9.6,Expense,,9.6,MYR,9.6
+25/11/2023 13:38:49,Cash,🧥 Apparel,,,20,Expense,,20,MYR,20
+25/11/2023 16:20:02,Public Bank,🚖 Transport,Parking Ticket,,3.2,Expense,,3.2,MYR,3.2
+25/11/2023 17:51:54,Cash,🚖 Transport,Parking Ticket,,3,Expense,,3,MYR,3
+25/12/2023 10:55:14,Public Bank,Phone,Yoodo,,38,Expense,,38,MYR,38
+25/12/2023 14:28:57,Public Bank,Cash,,DIGI MAK,10,Transfer-Out,,10,MYR,10
+26/02/2024 14:15:38,Cash,🍜 Food,Lunch,,12,Expense,,12,MYR,12
+26/03/2024 07:36:30,Cash,🤑 Allowance,,,30,Income,,30,MYR,30
+26/03/2024 16:52:12,Cash,🍜 Food,Ramadan,,19,Expense,,19,MYR,19
+26/03/2024 16:52:18,Cash,🍜 Food,Ramadan,,6,Expense,,6,MYR,6
+26/09/2023 11:00:39,Cash,🚖 Transport,Bus,,5,Expense,,5,MYR,5
+26/09/2023 12:22:17,Cash,🍜 Food,Lunch,,27,Expense,,27,MYR,27
+26/09/2023 13:00:00,Public Bank,🚖 Transport,Grabcar,,7,Expense,,7,MYR,7
+26/09/2023 13:00:00,Cash,🧘🏼 Health,Medicine,,11.25,Expense,,11.25,MYR,11.25
+26/10/2023 09:05:09,Public Bank,Phone,Yoodo,,15,Expense,,15,MYR,15
+26/10/2023 10:30:58,Cash,🚖 Transport,Bus,,2,Expense,,2,MYR,2
+26/10/2023 11:18:54,Cash,🚖 Transport,Bus,,3,Expense,,3,MYR,3
+26/10/2023 12:28:16,Public Bank,🚖 Transport,Grabcar,,13,Expense,,13,MYR,13
+26/12/2023 11:12:15,Cash,🍜 Food,Beverages,,1.9,Expense,,1.9,MYR,1.9
+26/12/2023 13:23:07,Cash,🚖 Transport,Minyak,,25,Expense,,25,MYR,25
+26/12/2023 13:23:07,Cash,🍜 Food,Lunch,,21,Expense,,21,MYR,21
+27/01/2024 16:46:24,Cash,🧘🏼 Health,Gym,,5,Expense,,5,MYR,5
+27/01/2024 19:13:55,Cash,🍜 Food,Dinner,,9.6,Expense,,9.6,MYR,9.6
+27/02/2024 14:39:29,Cash,🍜 Food,Lunch,,11.9,Expense,,11.9,MYR,11.9
+27/10/2023 11:12:43,Cash,🧘🏼 Health,Medicine,,1.8,Expense,,1.8,MYR,1.8
+27/10/2023 11:12:49,Cash,Other,Other,,15,Expense,,15,MYR,15
+27/12/2023 19:01:45,Cash,🍜 Food,Dinner,,25.9,Expense,,25.9,MYR,25.9
+27/12/2023 19:01:50,Cash,🧘🏼 Health,Gym,,8,Expense,,8,MYR,8
+27/12/2023 19:01:55,Bank Islam,🤑 Allowance,,,200,Income,,200,MYR,200
+28/02/2024 14:10:13,Cash,🍜 Food,Lunch,,8,Expense,,8,MYR,8
+28/09/2023 09:12:43,Bank Islam,🤑 Allowance,,,743.94,Income,,743.94,MYR,743.94
+28/09/2023 09:14:13,Public Bank,🤑 Allowance,,,433.43,Income,,433.43,MYR,433.43
+28/09/2023 09:56:33,Cash,🤑 Allowance,,,252.2,Income,,252.2,MYR,252.2
+28/09/2023 15:01:24,Cash,🤑 Allowance,,,50,Income,,50,MYR,50
+28/09/2023 15:49:10,Cash,🚖 Transport,Parking Ticket,,3,Expense,,3,MYR,3
+28/09/2023 16:19:19,Cash,🍜 Food,Groceries,,10,Expense,,10,MYR,10
+28/10/2023 07:03:50,Cash,🍜 Food,Beverages,,2,Expense,,2,MYR,2
+28/12/2023 13:48:24,Cash,Other,Other,Duit Kawin,10,Expense,,10,MYR,10
+29/01/2024 09:06:23,Cash,🚖 Transport,Bus,,3,Expense,,3,MYR,3
+29/01/2024 09:06:56,Public Bank,Phone,Yoodo,,38,Expense,,38,MYR,38
+29/01/2024 09:27:13,Cash,Other,Other,Print,4,Expense,,4,MYR,4
+29/01/2024 09:35:02,Public Bank,Cash,,,50,Transfer-Out,,50,MYR,50
+29/01/2024 10:29:41,Cash,🍜 Food,Eating out,,9.1,Expense,,9.1,MYR,9.1
+29/01/2024 10:47:32,Cash,🚖 Transport,Bus,,3,Expense,,3,MYR,3
+29/01/2024 16:22:22,Public Bank,Phone,Maxis,,63.6,Expense,,63.6,MYR,63.6
+29/02/2024 08:44:18,Cash,🤑 Allowance,,,10,Income,,10,MYR,10
+29/11/2023 10:17:59,Public Bank,Cash,,,100,Transfer-Out,,100,MYR,100
+29/11/2023 10:17:59,Public Bank,Other,,Fees,1,Expense,,1,MYR,1
+29/11/2023 16:37:42,Public Bank,Phone,Yoodo,,32,Expense,,32,MYR,32
+29/12/2023 17:01:45,Cash,🍜 Food,Groceries,,7,Expense,,7,MYR,7
+30/01/2024 23:21:59,Public Bank,Other,Other,,10,Expense,,10,MYR,10
+30/09/2023 19:51:29,Cash,🍜 Food,Dinner,,10,Expense,,10,MYR,10
+30/09/2023 20:16:25,Cash,🍜 Food,Beverages,,5,Expense,,5,MYR,5
+30/09/2023 20:16:30,Cash,🍜 Food,Dinner,,5,Expense,,5,MYR,5
+30/09/2023 20:26:15,Cash,🍜 Food,Dinner,,11,Expense,,11,MYR,11
+30/11/2023 17:50:01,Cash,🧘🏼 Health,Gym,,8,Expense,,8,MYR,8
+30/11/2023 18:27:31,Cash,🧘🏼 Health,Medicine,,2.4,Expense,,2.4,MYR,2.4
+30/11/2023 19:04:30,Cash,🍜 Food,Dinner,,23.3,Expense,,23.3,MYR,23.3
+31/01/2024 11:13:14,Cash,🚖 Transport,Bus,,2,Expense,,2,MYR,2
+31/01/2024 12:16:40,Cash,🚖 Transport,Bus,,2,Expense,,2,MYR,2
+31/01/2024 12:53:39,Cash,🍜 Food,Lunch,,11,Expense,,11,MYR,11
+31/01/2024 13:00:17,Cash,Other,Other,Pen,1.6,Expense,,1.6,MYR,1.6
+31/01/2024 14:57:42,Cash,🧘🏼 Health,Toiletries,,23.05,Expense,,23.05,MYR,23.05
+31/01/2024 20:18:40,Public Bank,Other,Books,,89,Expense,,89,MYR,89
+31/01/2024 20:18:52,Public Bank,🤑 Allowance,,,100,Income,,100,MYR,100
+31/12/2023 16:01:49,Public Bank,🎮 Game,Honkai Star Rail,,19.9,Expense,,19.9,MYR,19.9
+31/12/2023 16:51:10,Bank Islam,Cash,,,100,Transfer-Out,,100,MYR,100
+31/12/2023 16:51:10,Bank Islam,Other,,Fees,1,Expense,,1,MYR,1
