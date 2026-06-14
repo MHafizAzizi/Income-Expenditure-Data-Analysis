@@ -10,16 +10,46 @@ Notes / known limitations:
 - Raw exports overlap heavily. The 23-06-2025 export stores DATE ONLY (no
   time), so its rows are degraded duplicates of timed rows in the xlsx/other
   exports. Those are dropped via a date-level "loose key" match.
-- Category/Account names drift across exports (e.g. "Food & Drink" -> "Food",
-  "Dompet" -> "Cash", later names carry emojis). This script does NOT
-  harmonise them — clean categories downstream if needed.
+- Category/Account names drift across exports (emoji prefixes, renames like
+  "Food & Drink" -> "Food", "Dompet" -> "Cash"). Harmonised here: emoji are
+  stripped, then category_map.csv / account_map.csv apply explicit renames.
+  Edit those map files (raw,canonical) to add/adjust mappings.
+- EntryType column tags rows: "Adjustment" (Modified Bal. balance fixes),
+  "Transfer" (Transfer-* between accounts), "Normal" (real income/expense).
+  Filter EntryType == "Normal" for spending/income analysis.
 """
 
+import re
 from pathlib import Path
 import pandas as pd
 
-RAW_DIR = Path(__file__).parent / "data" / "raw"
-OUT_FILE = Path(__file__).parent / "data" / "MasterFile.csv"
+BASE = Path(__file__).parent
+RAW_DIR = BASE / "data" / "raw"
+OUT_FILE = BASE / "data" / "MasterFile.csv"
+
+
+def _load_map(name: str) -> dict:
+    path = BASE / name
+    if not path.exists():
+        return {}
+    m = pd.read_csv(path, dtype=str, encoding="utf-8-sig").fillna("")
+    return {r.raw.strip(): r.canonical.strip() for r in m.itertuples()}
+
+
+CAT_MAP = _load_map("category_map.csv")
+ACCT_MAP = _load_map("account_map.csv")
+_EMOJI = re.compile(r"[^\x00-\x7F]+")
+
+
+def clean_category(s: str) -> str:
+    s = _EMOJI.sub("", s)              # drop emoji prefixes
+    s = re.sub(r"\s+", " ", s).strip()  # collapse whitespace left behind
+    s = CAT_MAP.get(s, s)             # explicit rename (Food & Drink -> Food)
+    return ACCT_MAP.get(s, s)         # transfer rows carry an account name here
+
+
+def clean_account(s: str) -> str:
+    return ACCT_MAP.get(s.strip(), s.strip())
 
 # Canonical columns kept in the master (raw col 11 / Description / Amount /
 # Currency are dropped: Amount duplicates MYR, Currency is always MYR, col 11
@@ -39,6 +69,9 @@ def read_raw(path: Path) -> pd.DataFrame:
     df["MYR"] = pd.to_numeric(df["MYR"], errors="coerce")
     for c in ["Account", "Category", "Subcategory", "Note", "Income/Expense"]:
         df[c] = df[c].fillna("").str.strip()
+    # Harmonise before dedupe so cross-export drift collapses into one key.
+    df["Account"] = df["Account"].map(clean_account)
+    df["Category"] = df["Category"].map(clean_category)
     df = df.dropna(subset=["Date", "MYR"])
     # Floor to seconds: the xlsx export carries microseconds the csv exports
     # lack, which would otherwise defeat exact dedupe of the same transaction.
@@ -76,8 +109,13 @@ def main() -> None:
 
     master["Year"] = master["Date"].dt.year
     master["Month"] = master["Date"].dt.month
-    out = master[["Date", "Year", "Month", "Account", "Category",
-                  "Subcategory", "Note", "MYR", "Income/Expense"]]
+    # Tag non-spend rows so analysis can filter EntryType == "Normal".
+    ie = master["Income/Expense"]
+    master["EntryType"] = "Normal"
+    master.loc[ie.str.startswith("Transfer"), "EntryType"] = "Transfer"
+    master.loc[master["Category"] == "Modified Bal.", "EntryType"] = "Adjustment"
+    out = master[["Date", "Year", "Month", "Account", "Category", "Subcategory",
+                  "Note", "MYR", "Income/Expense", "EntryType"]]
     out.to_csv(OUT_FILE, index=False, encoding="utf-8-sig")
 
     print(f"\nWrote {len(out)} rows -> {OUT_FILE}")
