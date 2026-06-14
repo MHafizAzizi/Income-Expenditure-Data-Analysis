@@ -1,0 +1,6 @@
+# Local session memory — not part of the repo
+context.md
+
+# Python
+__pycache__/
+*.pyc
