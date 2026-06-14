@@ -20,6 +20,25 @@ Stack: Python + pandas. `MasterFile.csv` is now generated, not hand-kept. Analys
 - Drop new Money Manager exports into `data/raw/` then rerun `python build_master.py` to refresh. Add new drift mappings to the two map files as needed.
 - Analysis must filter `EntryType == "Normal"` to exclude transfers/balance adjustments from spend/income sums.
 
+## Quick Analysis — Snapshot (2026-06-14, Normal entries only)
+
+Span 2022-07 → 2026-06. Expense RM 87,373 (3275 txns) · Income RM 83,774 (196) · Net −RM 3,599.
+Top spend: Food 27% (RM 23.7k) · Rent 17% · Other 14% (RM 12.5k, 356 txns — big uncategorised bucket, worth splitting) · Family 7% · Health 7%.
+Monthly spend rising: RM 553/mo (2022) → RM 628 (2023) → RM 2,002 (2024) → RM 3,082 (2025) → RM 2,584 (2026 partial).
+
+## Analysis Ideas (revisit later)
+
+All terminal-output, pandas only (charts need matplotlib add):
+1. Monthly trend — spend/income/net per month, full timeline.
+2. Category deep-dive — one category over time + subcategory breakdown.
+3. `Other` audit — what's in the 356 Other txns (by Note/Subcategory).
+4. Account flow — spend + transfers per account, balance movement.
+5. Top recurring spend by Note (merchant-ish).
+6. Savings rate — income vs expense per month/year, cashflow gaps.
+7. Day/weekday spend patterns.
+8. Biggest single transactions / outliers.
+9. Recurring-bill detection (Rent, Phone monthly repeats).
+
 ## Key Files
 
 | File | Role |
@@ -37,3 +56,4 @@ Stack: Python + pandas. `MasterFile.csv` is now generated, not hand-kept. Analys
 - Wrote `build_master.py` to regenerate `MasterFile.csv` from raw exports. Added `requirements.txt` (pandas, openpyxl).
 - Added data harmonisation: emoji strip + `category_map.csv`/`account_map.csv` renames + `EntryType` flag (Normal/Transfer/Adjustment). Output now 3756 rows; categories merged across full history, Dompet→Cash, no emoji.
 - Confirmed `Credit Topup`→`Phone` rename (user verified same). Phone now 108 rows.
+- Ran first quick analysis (snapshot above). Logged 9 analysis ideas to revisit. No analysis/viz layer built yet.
