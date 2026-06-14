@@ -1,30 +1,30 @@
 ﻿Date,Year,Month,Account,Category,Subcategory,Note,MYR,Income/Expense,EntryType
 2022-07-25 17:09:38,2022,7,Public Bank,Allowance,,Duit,200.0,Income,Normal
-2022-07-28 19:22:28,2022,7,Public Bank,Credit Topup,Digi,TOPUP MAK,10.0,Expense,Normal
-2022-07-29 14:11:29,2022,7,Public Bank,Credit Topup,Yoodo,,83.0,Expense,Normal
+2022-07-28 19:22:28,2022,7,Public Bank,Phone,Digi,TOPUP MAK,10.0,Expense,Normal
+2022-07-29 14:11:29,2022,7,Public Bank,Phone,Yoodo,,83.0,Expense,Normal
 2022-08-03 18:57:13,2022,8,Cash,Allowance,,DOMPET,200.0,Income,Normal
 2022-08-04 22:28:49,2022,8,Public Bank,Game,Honkai,Monthly Pass,19.9,Expense,Normal
 2022-08-06 17:23:29,2022,8,Cash,Allowance,,Mak bayar balik topup,10.0,Income,Normal
 2022-08-06 17:24:17,2022,8,Cash,Food,,Sayap Ayam,7.0,Expense,Normal
-2022-08-08 13:16:42,2022,8,Public Bank,Credit Topup,Digi,DIGI,5.0,Expense,Normal
+2022-08-08 13:16:42,2022,8,Public Bank,Phone,Digi,DIGI,5.0,Expense,Normal
 2022-08-09 20:01:57,2022,8,Cash,Health,Toiletries,,24.35,Expense,Normal
 2022-08-10 13:04:26,2022,8,Public Bank,Game,Arknight,MONTHLY PASS,21.99,Expense,Normal
-2022-08-13 10:39:56,2022,8,Public Bank,Credit Topup,Yoodo,Youtube,7.0,Expense,Normal
+2022-08-13 10:39:56,2022,8,Public Bank,Phone,Yoodo,Youtube,7.0,Expense,Normal
 2022-08-13 17:10:49,2022,8,Cash,Apparel,,KASUT,5.0,Expense,Normal
 2022-08-13 17:17:57,2022,8,Cash,Food,,,17.9,Expense,Normal
-2022-08-23 14:11:08,2022,8,Public Bank,Credit Topup,Yoodo,100GB POWERPASS,15.0,Expense,Normal
-2022-08-23 16:38:50,2022,8,Public Bank,Credit Topup,Digi,DIGI,5.0,Expense,Normal
-2022-08-23 22:30:17,2022,8,Public Bank,Credit Topup,Yoodo,,15.0,Expense,Normal
+2022-08-23 14:11:08,2022,8,Public Bank,Phone,Yoodo,100GB POWERPASS,15.0,Expense,Normal
+2022-08-23 16:38:50,2022,8,Public Bank,Phone,Digi,DIGI,5.0,Expense,Normal
+2022-08-23 22:30:17,2022,8,Public Bank,Phone,Yoodo,,15.0,Expense,Normal
 2022-08-24 18:04:18,2022,8,Public Bank,Game,Genshin,Monthly Pass,19.9,Expense,Normal
 2022-08-25 09:33:23,2022,8,Public Bank,Allowance,,,200.0,Income,Normal
 2022-08-26 12:05:28,2022,8,Cash,Allowance,,,100.0,Income,Normal
 2022-08-27 16:19:33,2022,8,Cash,Other,,Gunting Rambut,15.0,Expense,Normal
-2022-08-28 22:20:04,2022,8,Public Bank,Credit Topup,Digi,INTERNET,20.0,Expense,Normal
+2022-08-28 22:20:04,2022,8,Public Bank,Phone,Digi,INTERNET,20.0,Expense,Normal
 2022-08-31 11:23:28,2022,8,Public Bank,Other,,CTOS,46.75,Expense,Normal
-2022-08-31 14:00:08,2022,8,Cash,Credit Topup,Digi,,90.0,Expense,Normal
+2022-08-31 14:00:08,2022,8,Cash,Phone,Digi,,90.0,Expense,Normal
 2022-08-31 15:03:31,2022,8,Cash,Food,,,14.9,Expense,Normal
 2022-09-05 11:42:24,2022,9,Public Bank,Transport,GrabCar,GRAB,25.0,Expense,Normal
-2022-09-05 11:42:42,2022,9,Public Bank,Credit Topup,Digi,MAK,10.0,Expense,Normal
+2022-09-05 11:42:42,2022,9,Public Bank,Phone,Digi,MAK,10.0,Expense,Normal
 2022-09-05 11:42:56,2022,9,Cash,Other,,TOPUP MAK,10.0,Income,Normal
 2022-09-05 13:22:50,2022,9,Public Bank,Food,,,26.0,Expense,Normal
 2022-09-05 18:08:51,2022,9,Cash,Allowance,,,30.0,Income,Normal
@@ -33,9 +33,9 @@
 2022-09-06 19:55:22,2022,9,Cash,Allowance,,KELAS MANDARIN,50.0,Income,Normal
 2022-09-07 09:36:55,2022,9,Cash,Allowance,,,100.0,Income,Normal
 2022-09-08 19:18:27,2022,9,Cash,Health,Toiletries,UBAT,65.0,Expense,Normal
-2022-09-17 12:16:38,2022,9,Public Bank,Credit Topup,Yoodo,INTERNET,10.0,Expense,Normal
+2022-09-17 12:16:38,2022,9,Public Bank,Phone,Yoodo,INTERNET,10.0,Expense,Normal
 2022-09-18 08:17:18,2022,9,Cash,Food,,,18.0,Expense,Normal
-2022-09-22 10:41:33,2022,9,Public Bank,Credit Topup,Digi,DIGI POSTPAID,20.0,Expense,Normal
+2022-09-22 10:41:33,2022,9,Public Bank,Phone,Digi,DIGI POSTPAID,20.0,Expense,Normal
 2022-09-22 12:58:25,2022,9,Cash,Allowance,,,50.0,Income,Normal
 2022-09-22 12:58:35,2022,9,Cash,Transport,,,3.0,Expense,Normal
 2022-09-22 13:03:35,2022,9,Public Bank,Transport,,,8.0,Expense,Normal
@@ -46,7 +46,7 @@
 2022-09-25 07:33:23,2022,9,Cash,Food,,,10.0,Expense,Normal
 2022-09-25 11:48:04,2022,9,Cash,Health,Toiletries,Sabun Mandi,20.9,Expense,Normal
 2022-09-25 11:50:30,2022,9,Cash,Food,,,8.0,Expense,Normal
-2022-09-26 11:24:09,2022,9,Public Bank,Credit Topup,Yoodo,,15.0,Expense,Normal
+2022-09-26 11:24:09,2022,9,Public Bank,Phone,Yoodo,,15.0,Expense,Normal
 2022-09-26 16:30:05,2022,9,Public Bank,Transport,,,14.0,Expense,Normal
 2022-09-26 16:31:13,2022,9,Cash,Allowance,,,10.0,Income,Normal
 2022-09-26 19:00:15,2022,9,Public Bank,Food,,,63.95,Expense,Normal
@@ -54,10 +54,10 @@
 2022-09-27 12:38:12,2022,9,Public Bank,Food,,,24.41,Expense,Normal
 2022-09-28 17:45:50,2022,9,Cash,Food,,,3.0,Expense,Normal
 2022-09-28 17:49:45,2022,9,Public Bank,Game,Genshin,Monthly Pass,19.9,Expense,Normal
-2022-09-29 07:11:35,2022,9,Public Bank,Credit Topup,Digi,,3.0,Expense,Normal
+2022-09-29 07:11:35,2022,9,Public Bank,Phone,Digi,,3.0,Expense,Normal
 2022-10-02 14:56:19,2022,10,Cash,Food,,,30.0,Expense,Normal
 2022-10-09 18:35:28,2022,10,Cash,Food,,,5.0,Expense,Normal
-2022-10-09 22:46:27,2022,10,Public Bank,Credit Topup,Yoodo,,23.0,Expense,Normal
+2022-10-09 22:46:27,2022,10,Public Bank,Phone,Yoodo,,23.0,Expense,Normal
 2022-10-12 13:20:44,2022,10,Cash,Food,,,22.9,Expense,Normal
 2022-10-12 18:33:11,2022,10,Cash,Transport,,,4.0,Expense,Normal
 2022-10-13 11:38:41,2022,10,Public Bank,Other,,Quillbot,6.99,Expense,Normal
@@ -74,7 +74,7 @@
 2022-10-25 16:23:11,2022,10,Cash,Health,Toiletries,,2.0,Expense,Normal
 2022-10-25 17:29:50,2022,10,Cash,Transport,,,7.0,Expense,Normal
 2022-10-26 11:32:26,2022,10,Cash,Other,,MOVIE,29.0,Expense,Normal
-2022-10-26 12:03:49,2022,10,Public Bank,Credit Topup,Digi,,20.07,Expense,Normal
+2022-10-26 12:03:49,2022,10,Public Bank,Phone,Digi,,20.07,Expense,Normal
 2022-10-26 12:28:19,2022,10,Public Bank,Food,,,23.0,Expense,Normal
 2022-10-26 13:03:12,2022,10,Public Bank,Health,Toiletries,,3.0,Expense,Normal
 2022-10-27 10:05:06,2022,10,Cash,Food,,,12.3,Expense,Normal
@@ -84,9 +84,9 @@
 2022-10-29 17:07:48,2022,10,Public Bank,Allowance,,,100.0,Income,Normal
 2022-10-29 18:43:15,2022,10,Public Bank,Game,Genshin,Monthly Pass,19.9,Expense,Normal
 2022-10-29 18:43:38,2022,10,Public Bank,Game,Genshin,Battlepass,39.9,Expense,Normal
-2022-10-29 19:40:54,2022,10,Public Bank,Credit Topup,Digi,,10.0,Expense,Normal
+2022-10-29 19:40:54,2022,10,Public Bank,Phone,Digi,,10.0,Expense,Normal
 2022-10-30 16:29:05,2022,10,Cash,Food,Breakfast,,10.7,Expense,Normal
-2022-10-30 18:32:10,2022,10,Public Bank,Credit Topup,Yoodo,,83.0,Expense,Normal
+2022-10-30 18:32:10,2022,10,Public Bank,Phone,Yoodo,,83.0,Expense,Normal
 2022-10-30 23:12:53,2022,10,Public Bank,Game,Path to Nowhere,,23.99,Expense,Normal
 2022-11-01 12:37:11,2022,11,Cash,Food,Lunch,,8.0,Expense,Normal
 2022-11-01 15:12:45,2022,11,Cash,Food,Lunch,,5.9,Expense,Normal
@@ -155,10 +155,10 @@
 2022-12-02 17:51:13,2022,12,Public Bank,Allowance,,,200.0,Income,Normal
 2022-12-02 17:55:05,2022,12,Cash,Food,Dinner,,7.0,Expense,Normal
 2022-12-03 05:32:54,2022,12,Public Bank,Game,Honkai,,23.9,Expense,Normal
-2022-12-03 06:37:14,2022,12,Public Bank,Credit Topup,Yoodo,,17.0,Expense,Normal
+2022-12-03 06:37:14,2022,12,Public Bank,Phone,Yoodo,,17.0,Expense,Normal
 2022-12-03 17:58:24,2022,12,Cash,Food,Dinner,,13.0,Expense,Normal
 2022-12-05 16:50:38,2022,12,Bank Islam,Allowance,,,300.0,Income,Normal
-2022-12-05 17:32:05,2022,12,Bank Islam,Credit Topup,Digi,,117.27,Expense,Normal
+2022-12-05 17:32:05,2022,12,Bank Islam,Phone,Digi,,117.27,Expense,Normal
 2022-12-05 18:11:06,2022,12,Cash,Other,,,8.0,Expense,Normal
 2022-12-06 18:17:29,2022,12,Cash,Food,Dinner,,12.5,Expense,Normal
 2022-12-06 20:38:41,2022,12,Public Bank,Game,Azurlane,,33.98,Expense,Normal
@@ -206,8 +206,8 @@
 2022-12-23 13:04:32,2022,12,Cash,Food,Lunch,,11.0,Expense,Normal
 2022-12-23 17:39:19,2022,12,Cash,Food,Dinner,,8.5,Expense,Normal
 2022-12-23 17:51:20,2022,12,Cash,Food,Dinner,,3.0,Expense,Normal
-2022-12-24 16:25:33,2022,12,Boost,Credit Topup,Yoodo,,7.0,Expense,Normal
-2022-12-24 21:21:59,2022,12,Public Bank,Credit Topup,Yoodo,,15.0,Expense,Normal
+2022-12-24 16:25:33,2022,12,Boost,Phone,Yoodo,,7.0,Expense,Normal
+2022-12-24 21:21:59,2022,12,Public Bank,Phone,Yoodo,,15.0,Expense,Normal
 2022-12-25 13:11:58,2022,12,Cash,Other,,,1.65,Expense,Normal
 2022-12-25 14:34:54,2022,12,Public Bank,Food,Lunch,,23.3,Expense,Normal
 2022-12-25 16:07:32,2022,12,Cash,Food,Barang Dapur,,7.7,Expense,Normal
@@ -218,7 +218,7 @@
 2022-12-27 13:15:58,2022,12,Cash,Food,Lunch,,5.0,Expense,Normal
 2022-12-27 18:25:39,2022,12,Cash,Food,Dinner,,4.0,Expense,Normal
 2022-12-28 17:58:18,2022,12,Cash,Food,Dinner,,10.0,Expense,Normal
-2022-12-29 17:50:54,2022,12,Public Bank,Credit Topup,Yoodo,,25.0,Expense,Normal
+2022-12-29 17:50:54,2022,12,Public Bank,Phone,Yoodo,,25.0,Expense,Normal
 2022-12-30 10:25:28,2022,12,Cash,Allowance,,,15.0,Income,Normal
 2022-12-30 10:25:37,2022,12,Cash,Food,Barang Dapur,,42.05,Expense,Normal
 2022-12-30 18:25:58,2022,12,Cash,Food,Dinner,,11.5,Expense,Normal
@@ -292,7 +292,7 @@
 2023-01-26 17:27:49,2023,1,Cash,Food,Dinner,,5.0,Expense,Normal
 2023-01-26 17:31:01,2023,1,Cash,Food,Dinner,,9.0,Expense,Normal
 2023-01-26 17:34:34,2023,1,Cash,Food,Dinner,,3.0,Expense,Normal
-2023-01-26 23:59:31,2023,1,Public Bank,Credit Topup,Yoodo,,63.0,Expense,Normal
+2023-01-26 23:59:31,2023,1,Public Bank,Phone,Yoodo,,63.0,Expense,Normal
 2023-01-27 13:58:34,2023,1,Cash,Food,Lunch,,5.0,Expense,Normal
 2023-01-27 13:58:40,2023,1,Cash,Food,Drink,,4.0,Expense,Normal
 2023-01-28 12:12:46,2023,1,Cash,Food,Dinner,,6.0,Expense,Normal
@@ -454,9 +454,9 @@
 2023-03-24 13:56:17,2023,3,Public Bank,Allowance,,,300.0,Income,Normal
 2023-03-24 17:56:03,2023,3,Cash,Food,Dinner,,6.0,Expense,Normal
 2023-03-24 17:56:10,2023,3,Cash,Food,Drink,,4.3,Expense,Normal
-2023-03-25 04:56:14,2023,3,Public Bank,Credit Topup,Yoodo,,15.0,Expense,Normal
+2023-03-25 04:56:14,2023,3,Public Bank,Phone,Yoodo,,15.0,Expense,Normal
 2023-03-25 15:58:55,2023,3,Cash,Transport,Bus,,3.0,Expense,Normal
-2023-03-25 23:23:46,2023,3,Public Bank,Credit Topup,Yoodo,,83.0,Expense,Normal
+2023-03-25 23:23:46,2023,3,Public Bank,Phone,Yoodo,,83.0,Expense,Normal
 2023-03-26 13:14:57,2023,3,Public Bank,Other,,,20.5,Expense,Normal
 2023-03-26 17:13:32,2023,3,Cash,Food,Dinner,,10.0,Expense,Normal
 2023-03-26 17:14:07,2023,3,Cash,Food,Drink,,6.0,Expense,Normal
@@ -476,7 +476,7 @@
 2023-04-14 20:46:23,2023,4,Public Bank,Allowance,,,200.0,Income,Normal
 2023-04-14 20:46:45,2023,4,Cash,Transport,Bus,,12.0,Expense,Normal
 2023-04-18 04:25:21,2023,4,Cash,Transport,Bus,,4.0,Expense,Normal
-2023-04-18 04:25:33,2023,4,Public Bank,Credit Topup,Maxis,,10.0,Expense,Normal
+2023-04-18 04:25:33,2023,4,Public Bank,Phone,Maxis,,10.0,Expense,Normal
 2023-04-19 14:38:24,2023,4,Cash,Allowance,,,50.0,Income,Normal
 2023-04-19 14:38:34,2023,4,Public Bank,Game,Blue Archive,,14.99,Expense,Normal
 2023-04-19 20:41:55,2023,4,Cash,Transport,Bus,,10.0,Expense,Normal
@@ -484,7 +484,7 @@
 2023-04-20 14:09:03,2023,4,Cash,Allowance,,,55.0,Income,Normal
 2023-04-24 18:26:59,2023,4,Cash,Transport,Kereta,,20.0,Expense,Normal
 2023-04-25 10:06:49,2023,4,Cash,Allowance,,,450.0,Income,Normal
-2023-04-25 10:07:53,2023,4,Public Bank,Credit Topup,Yoodo,,23.0,Expense,Normal
+2023-04-25 10:07:53,2023,4,Public Bank,Phone,Yoodo,,23.0,Expense,Normal
 2023-04-25 13:32:59,2023,4,Bank Islam,ASB,,,200.0,Transfer-Out,Transfer
 2023-04-26 10:05:03,2023,4,Cash,Bank Islam,,,400.0,Transfer-Out,Transfer
 2023-04-26 10:42:05,2023,4,Public Bank,Transport,GrabCar,,5.0,Expense,Normal
@@ -498,7 +498,7 @@
 2023-04-28 13:40:16,2023,4,Cash,Food,Lunch,,9.5,Expense,Normal
 2023-04-28 13:49:30,2023,4,Public Bank,Transport,GrabCar,,7.0,Expense,Normal
 2023-05-01 00:20:02,2023,5,Cash,Food,Drink,,3.4,Expense,Normal
-2023-05-01 00:20:09,2023,5,Public Bank,Credit Topup,Yoodo,,15.0,Expense,Normal
+2023-05-01 00:20:09,2023,5,Public Bank,Phone,Yoodo,,15.0,Expense,Normal
 2023-05-01 11:11:54,2023,5,Cash,Other,,,15.0,Expense,Normal
 2023-05-01 11:12:01,2023,5,Cash,Food,Barang Dapur,,11.1,Expense,Normal
 2023-05-03 13:12:00,2023,5,Cash,Food,Lunch,,2.0,Expense,Normal
@@ -544,7 +544,7 @@
 2023-05-24 12:26:02,2023,5,Public Bank,Game,Blue Archive,,14.99,Expense,Normal
 2023-05-24 13:05:49,2023,5,Cash,Food,Lunch,,2.0,Expense,Normal
 2023-05-24 23:38:08,2023,5,Cash,Transport,Bus,,2.0,Expense,Normal
-2023-05-24 23:38:08,2023,5,Public Bank,Credit Topup,Yoodo,,83.0,Expense,Normal
+2023-05-24 23:38:08,2023,5,Public Bank,Phone,Yoodo,,83.0,Expense,Normal
 2023-05-25 13:31:57,2023,5,Cash,Food,Lunch,,4.0,Expense,Normal
 2023-05-25 13:32:01,2023,5,Cash,Transport,Bus,,2.0,Expense,Normal
 2023-05-26 12:21:34,2023,5,Cash,Food,Lunch,,4.0,Expense,Normal
@@ -610,7 +610,7 @@
 2023-07-01 13:33:11,2023,7,Bank Islam,Public Bank,,,150.0,Transfer-Out,Transfer
 2023-07-01 13:35:54,2023,7,Bank Islam,Health,Gym,,30.0,Expense,Normal
 2023-07-01 19:22:59,2023,7,Cash,Food,Dinner,,10.0,Expense,Normal
-2023-07-02 11:13:25,2023,7,Public Bank,Credit Topup,Yoodo,,80.0,Expense,Normal
+2023-07-02 11:13:25,2023,7,Public Bank,Phone,Yoodo,,80.0,Expense,Normal
 2023-07-02 14:08:39,2023,7,Cash,Allowance,,,100.0,Income,Normal
 2023-07-02 14:11:46,2023,7,Cash,Apparel,,,39.9,Expense,Normal
 2023-07-02 15:06:07,2023,7,Cash,Transport,Kereta,,3.0,Expense,Normal
@@ -619,7 +619,7 @@
 2023-07-02 16:57:30,2023,7,Cash,Food,Dinner,,15.0,Expense,Normal
 2023-07-03 11:58:01,2023,7,Public Bank,Game,Path to Nowhere,,23.99,Expense,Normal
 2023-07-03 21:38:18,2023,7,Cash,Transport,Bus,,2.0,Expense,Normal
-2023-07-04 09:47:47,2023,7,Public Bank,Credit Topup,Yoodo,,5.0,Expense,Normal
+2023-07-04 09:47:47,2023,7,Public Bank,Phone,Yoodo,,5.0,Expense,Normal
 2023-07-04 13:18:06,2023,7,Cash,Transport,Bus,,2.0,Expense,Normal
 2023-07-04 13:18:06,2023,7,Cash,Food,Lunch,,4.0,Expense,Normal
 2023-07-05 13:11:09,2023,7,Cash,Transport,Bus,,2.0,Expense,Normal
@@ -656,7 +656,7 @@
 2023-07-20 12:02:14,2023,7,Cash,Transport,Bus,,2.0,Expense,Normal
 2023-07-21 11:37:14,2023,7,Cash,Allowance,,,400.0,Income,Normal
 2023-07-22 19:14:58,2023,7,Public Bank,Food,Dinner,,24.5,Expense,Normal
-2023-07-22 21:31:09,2023,7,Bank Islam,Credit Topup,Maxis,,10.0,Expense,Normal
+2023-07-22 21:31:09,2023,7,Bank Islam,Phone,Maxis,,10.0,Expense,Normal
 2023-07-23 17:22:45,2023,7,Cash,Food,Barang Dapur,,18.55,Expense,Normal
 2023-07-23 17:27:30,2023,7,Cash,Food,Dinner,,3.0,Expense,Normal
 2023-07-25 08:27:24,2023,7,Public Bank,Allowance,,,200.0,Income,Normal
@@ -675,7 +675,7 @@
 2023-07-29 13:43:31,2023,7,Cash,Other,,,19.0,Expense,Normal
 2023-07-29 13:43:31,2023,7,Cash,Food,Lunch,,4.0,Expense,Normal
 2023-07-30 10:35:54,2023,7,Cash,Food,Barang Dapur,,8.0,Expense,Normal
-2023-08-01 11:45:16,2023,8,Public Bank,Credit Topup,Yoodo,,52.0,Expense,Normal
+2023-08-01 11:45:16,2023,8,Public Bank,Phone,Yoodo,,52.0,Expense,Normal
 2023-08-02 05:45:45,2023,8,Bank Islam,Allowance,,,200.0,Income,Normal
 2023-08-02 18:30:28,2023,8,Cash,Health,Gym,,8.0,Expense,Normal
 2023-08-02 19:31:37,2023,8,Cash,Food,Dinner,,31.7,Expense,Normal
@@ -702,7 +702,7 @@
 2023-08-14 12:15:37,2023,8,Cash,Food,Lunch,,27.0,Expense,Normal
 2023-08-14 12:40:29,2023,8,Cash,Transport,Bus,,2.0,Expense,Normal
 2023-08-14 14:11:55,2023,8,Cash,Other,,,15.0,Expense,Normal
-2023-08-14 23:58:10,2023,8,Public Bank,Credit Topup,Yoodo,,15.0,Expense,Normal
+2023-08-14 23:58:10,2023,8,Public Bank,Phone,Yoodo,,15.0,Expense,Normal
 2023-08-17 12:32:51,2023,8,Cash,Food,Lunch,,15.0,Expense,Normal
 2023-08-17 15:21:57,2023,8,Cash,Apparel,,,5.9,Expense,Normal
 2023-08-17 15:38:30,2023,8,Public Bank,Transport,GrabCar,,8.0,Expense,Normal

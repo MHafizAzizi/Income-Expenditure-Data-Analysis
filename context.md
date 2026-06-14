@@ -17,7 +17,6 @@ Stack: Python + pandas. `MasterFile.csv` is now generated, not hand-kept. Analys
 ## Pending Tasks
 
 - Decide analysis/viz layer (Streamlit, notebook, etc — none chosen yet).
-- OPTIONAL data call: `Credit Topup` (2022-23) may = `Phone` (2023-26) category. If same, add `Credit Topup,Phone` to `category_map.csv` + rerun. Not done (uncertain).
 - Drop new Money Manager exports into `data/raw/` then rerun `python build_master.py` to refresh. Add new drift mappings to the two map files as needed.
 - Analysis must filter `EntryType == "Normal"` to exclude transfers/balance adjustments from spend/income sums.
 
@@ -37,3 +36,4 @@ Stack: Python + pandas. `MasterFile.csv` is now generated, not hand-kept. Analys
 - Removed all Streamlit scripts (`Main-Page.py`, `pages/`).
 - Wrote `build_master.py` to regenerate `MasterFile.csv` from raw exports. Added `requirements.txt` (pandas, openpyxl).
 - Added data harmonisation: emoji strip + `category_map.csv`/`account_map.csv` renames + `EntryType` flag (Normal/Transfer/Adjustment). Output now 3756 rows; categories merged across full history, Dompet→Cash, no emoji.
+- Confirmed `Credit Topup`→`Phone` rename (user verified same). Phone now 108 rows.
