@@ -1,0 +1,7 @@
+# Local session memory — not part of the repo
+context.md
+CLAUDE.md
+
+# Python
+__pycache__/
+*.pyc
