@@ -2,6 +2,13 @@
 context.md
 CLAUDE.md
 
+# Jupyter
+analysis.ipynb
+.ipynb_checkpoints/
+
+# Generated reports (rebuilt by build_master.py)
+data/quality_report.csv
+
 # Python
 __pycache__/
 *.pyc

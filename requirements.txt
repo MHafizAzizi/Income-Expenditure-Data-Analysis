@@ -1,2 +1,8 @@
 pandas
 openpyxl
+plotly
+itables
+notebook
+nbformat
+nbconvert
+ipykernel
