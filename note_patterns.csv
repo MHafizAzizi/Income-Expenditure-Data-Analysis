@@ -1,0 +1,31 @@
+pattern,new_category,new_subcategory
+(?i)\bsocar\b,Transport,Car Rental
+(?i)\b(hotel|homestay|penginapan|airbnb)\b,Travel,Accommodation
+(?i)\b(tiket kapal|tiket sabah|cruise|bagasi|ferry)\b,Travel,Transport
+(?i)\bsepilok\b,Travel,Activities
+(?i)\bgenting\b,Entertainment,Activities
+(?i)\b(kr convention|motor show|pusat sains|muzium)\b,Entertainment,Events
+(?i)\bkr merch\b,Entertainment,Merchandise
+(?i)\bjam tangan\b,Apparel,Accessories
+(?i)\brepair kasut\b,Apparel,Accessories
+(?i)\b(baju tokopedia|jahit seluar|hanger baju)\b,Apparel,Clothing
+(?i)\bspek mata\b,Health,Eyewear
+(?i)\b(repair katil|gas dapur|plastik sampah|cat rumah|box cutter|pin tilam|measuring tape|tisu|kitchen scale)\b,Household,Household
+(?i)\b(phone repair|screen protector)\b,Phone,Repair
+(?i)\b(chatgpt|claude)\b,Subscription,AI Tools
+(?i)\b(aws|digitalocean)\b,Subscription,Cloud
+(?i)\bhellotalk\b,Subscription,Language App
+(?i)\b(print resume|data engineering class|resume review|interview coaching|career coaching)\b,Education,Career
+(?i)\b(yuran konvo|gambar konvo|laminate kertas konvo|aqil konvo)\b,Education,Graduation
+(?i)\b(infaq|zakat|sedekah|derma|sumbangan)\b,Donation,Donation
+(?i)\bbusker\b,Donation,Donation
+(?i)\b(bday|birthday|hadiah|duit kawin|hadiah kawin)\b,Gifts,Gifts
+(?i)\badopt\b,Pets,Pets
+(?i)\bpickleball\b,Health,Sports
+(?i)\brambut\b,Health,Grooming
+(?i)\brenew ic\b,Government,ID Renewal
+(?i)\blhdn\b,Government,Tax
+(?i)\bduti setem\b,Government,Fees
+(?i)\baktif bank\b,Government,Bank Fees
+(?i)ijat hutang,Hutang,Hutang
+(?i)\b(print|fotostat|pen|gambar)\b,Stationery,Stationery
